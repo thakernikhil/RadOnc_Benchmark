@@ -1,0 +1,5204 @@
+{
+  "questions": [
+    {
+      "year": "2025",
+      "num": "1",
+      "question": "A small randomized phase 1 trial evaluated a personalized viral-based cancer vaccine for patients with resected head and neck squamous cell carcinoma (HNSCC). What was the finding regarding recurrence at 2 years?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recurrence was 19% in the vaccination arm and 0% in the standard arm"
+        },
+        {
+          "letter": "B",
+          "text": "Recurrence was 0% in the vaccination arm and 19% in the standard arm"
+        },
+        {
+          "letter": "C",
+          "text": "There was no difference in recurrence rates"
+        },
+        {
+          "letter": "D",
+          "text": "Vaccination increased the rate of distant metastasis"
+        }
+      ],
+      "key": "B",
+      "rationale": "With a median follow up just over 2 years, the rate of recurrence was 0% in the vaccination arm and 19% in the standard arm.",
+      "citations": "Le Tourneau, ASCO 2025"
+    },
+    {
+      "year": "2025",
+      "num": "2",
+      "question": "The MATTERHORN trial randomized patients with resectable gastric or EG junction adenocarcinoma to perioperative FLOT with or without durvalumab. What was the impact on pathologic complete response (pCR)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pCR rates were identical between arms"
+        },
+        {
+          "letter": "B",
+          "text": "pCR was significantly improved with durvalumab (19% vs 7%)"
+        },
+        {
+          "letter": "C",
+          "text": "pCR was lower with durvalumab due to toxicity-related delays"
+        },
+        {
+          "letter": "D",
+          "text": "pCR was improved only in PD-L1 high tumors"
+        }
+      ],
+      "key": "B",
+      "rationale": "The addition of durvalumab significantly improved the pCR rate to 19.2% versus 7.2% with FLOT alone.",
+      "citations": "Janjigian, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "3",
+      "question": "A randomized trial evaluated the traditional Chinese medicine formulation Biyan Qingdu Granula (BQG) in patients receiving radiation for nasopharyngeal carcinoma. What was the observed benefit?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It improved overall survival"
+        },
+        {
+          "letter": "B",
+          "text": "It significantly reduced severe nasopharyngeal secretions and mucositis"
+        },
+        {
+          "letter": "C",
+          "text": "It reduced radiation dermatitis"
+        },
+        {
+          "letter": "D",
+          "text": "It had no measurable effect"
+        }
+      ],
+      "key": "B",
+      "rationale": "BQG was associated with a significantly lower rate of severe nasopharyngeal secretions (12.4% v 20%) and grade 3+ oral mucositis (12.3% v 22.4%).",
+      "citations": "Liu, ASCO 2025"
+    },
+    {
+      "year": "2024",
+      "num": "4",
+      "question": "RTOG 1112 randomized patients with advanced hepatocellular carcinoma to sorafenib alone or SBRT followed by sorafenib. What was the impact on overall survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SBRT significantly worsened overall survival due to toxicity"
+        },
+        {
+          "letter": "B",
+          "text": "SBRT improved median overall survival from 12.3 to 15.8 months"
+        },
+        {
+          "letter": "C",
+          "text": "There was no difference in survival or progression-free survival"
+        },
+        {
+          "letter": "D",
+          "text": "SBRT improved survival only in patients without vascular invasion"
+        }
+      ],
+      "key": "B",
+      "rationale": "Median overall survival was 15.8 months with SBRT and sorafenib compared to 12.3 months with sorafenib alone (HR 0.77, P=.06), and SBRT was significantly associated with OS on multivariable analysis.",
+      "citations": "Dawson, JAMA Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "5",
+      "question": "A single-arm phase 2 study evaluated the omission of surgery in patients with cT1-2N0-1 breast cancer who had a biopsy-confirmed pathologic complete response (pCR) after neoadjuvant therapy. What was the 5-year ipsilateral breast tumor recurrence rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0%"
+        },
+        {
+          "letter": "B",
+          "text": "5%"
+        },
+        {
+          "letter": "C",
+          "text": "10%"
+        },
+        {
+          "letter": "D",
+          "text": "20%"
+        }
+      ],
+      "key": "A",
+      "rationale": "At 5 years, the ipsilateral breast tumor recurrence was a whopping 0% in patients who omitted surgery after biopsy-confirmed pCR.",
+      "citations": "Keurer, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "6",
+      "question": "A study of SMART (Stereotactic MRI-guided Adaptive Radiotherapy) for abdominal oligometastases employed a workflow to account for daily variations in OARs. What were the 2-year toxicity outcomes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grade 3+ toxicity was >20%"
+        },
+        {
+          "letter": "B",
+          "text": "Late grade 3+ toxicity was only 2%"
+        },
+        {
+          "letter": "C",
+          "text": "Most patients developed duodenal ulcers"
+        },
+        {
+          "letter": "D",
+          "text": "Toxicity was high, leading to discontinuation of the protocol"
+        }
+      ],
+      "key": "B",
+      "rationale": "The two-year late grade 3+ toxicity rate was only 2% using the SMART protocol.",
+      "citations": "Akdemir, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "7",
+      "question": "A study using explainable AI identified dental calculus index as a risk factor for radiation-induced oral mucositis in nasopharyngeal carcinoma. What was the effect of a dental cleaning intervention?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It had no effect on mucositis rates"
+        },
+        {
+          "letter": "B",
+          "text": "It significantly increased mucositis due to gum irritation"
+        },
+        {
+          "letter": "C",
+          "text": "It reduced the rate of severe oral mucositis to 8.1%"
+        },
+        {
+          "letter": "D",
+          "text": "It only helped in patients with low baseline plaque"
+        }
+      ],
+      "key": "C",
+      "rationale": "In the intervention group receiving professional cleaning, the rate of severe oral mucositis was 8.1%, lower than the 39.1% seen in the retrospective cohort.",
+      "citations": "Zeng, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "8",
+      "question": "A retrospective study compared outcomes of esophagectomy following chemo-immunotherapy versus standard chemoradiation. What was the finding regarding 2-year disease-free survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chemoradiation had superior DFS"
+        },
+        {
+          "letter": "B",
+          "text": "Chemo-immunotherapy had higher DFS (74% vs 63%)"
+        },
+        {
+          "letter": "C",
+          "text": "Outcomes were identical"
+        },
+        {
+          "letter": "D",
+          "text": "Chemo-immunotherapy resulted in higher perioperative mortality"
+        }
+      ],
+      "key": "B",
+      "rationale": "Those in the chemoimmunotherapy cohort had higher 2-years disease-free (74% v 63%) survival compared to standard chemoradiation.",
+      "citations": "Guo, JAMA Surg 2025"
+    },
+    {
+      "year": "2025",
+      "num": "9",
+      "question": "A trial emulation study compared accelerated partial breast irradiation (APBI) modalities. Which modality was associated with a significantly higher risk of recurrence compared to photon therapy?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proton therapy"
+        },
+        {
+          "letter": "B",
+          "text": "Applicator-based brachytherapy"
+        },
+        {
+          "letter": "C",
+          "text": "Electron therapy"
+        },
+        {
+          "letter": "D",
+          "text": "Intraoperative radiation"
+        }
+      ],
+      "key": "B",
+      "rationale": "The risk of recurrence was significantly higher with brachytherapy than with photon therapy (HR 7.64 for tumors >1cm).",
+      "citations": "Shumway, J Natl Cancer Inst 2025"
+    },
+    {
+      "year": "2025",
+      "num": "10",
+      "question": "A review of aspirin's anticancer effects highlights a mechanism involving platelets. How does aspirin reportedly prevent metastasis?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By inducing direct tumor cell apoptosis"
+        },
+        {
+          "letter": "B",
+          "text": "By preventing platelet-mediated immune suppression via TXA2 inhibition"
+        },
+        {
+          "letter": "C",
+          "text": "By reducing systemic inflammation markers only"
+        },
+        {
+          "letter": "D",
+          "text": "By inhibiting angiogenesis"
+        }
+      ],
+      "key": "B",
+      "rationale": "Aspirin irreversibly inhibits platelet COX-1, shutting down thromboxane A2 (TXA2) production, which restores T cell-mediated micrometastasis elimination.",
+      "citations": "Langley, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "11",
+      "question": "Updated ASTRO guidelines for glioblastoma (GBM) recommend what fractionation schedule for elderly/poor performance status patients?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only standard 60 Gy in 30 fractions"
+        },
+        {
+          "letter": "B",
+          "text": "Hypofractionation"
+        },
+        {
+          "letter": "C",
+          "text": "Whole brain radiation"
+        },
+        {
+          "letter": "D",
+          "text": "Best supportive care only"
+        }
+      ],
+      "key": "B",
+      "rationale": "Performance status continues to dictate fractionation shema: conventional versus hypofractionation, with hypofractionation being an option for those with poorer status.",
+      "citations": "Yeboa, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "12",
+      "question": "A prospective trial offered prophylactic contralateral breast irradiation to BRCA carriers receiving adjuvant RT. What was the 10-year outcome regarding contralateral breast cancer risk?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significant reduction in 10-year risk"
+        },
+        {
+          "letter": "B",
+          "text": "No significant difference in risk at 10 years"
+        },
+        {
+          "letter": "C",
+          "text": "Increased risk of contralateral cancer"
+        },
+        {
+          "letter": "D",
+          "text": "Benefit was seen only in BRCA2 carriers"
+        }
+      ],
+      "key": "B",
+      "rationale": "At 10 years there was no significant difference in the rate of contralateral breast cancer (13.8% v 18.3%, P=.24), although median time to development was delayed.",
+      "citations": "Evron, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "13",
+      "question": "A meta-analysis of 15 prospective trials evaluated local therapy for oligometastases. What was the impact on overall survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No impact on overall survival"
+        },
+        {
+          "letter": "B",
+          "text": "Significant improvement in overall survival (HR 0.60)"
+        },
+        {
+          "letter": "C",
+          "text": "Worse overall survival due to toxicity"
+        },
+        {
+          "letter": "D",
+          "text": "Improvement only in progression-free survival"
+        }
+      ],
+      "key": "B",
+      "rationale": "Local therapy for oligometastases slashes progression-free (HR 0.48) and overall (HR 0.60) survival events.",
+      "citations": "Berner-Wygoda, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "14",
+      "question": "In the PEACE-3 trial, the addition of radium-223 to enzalutamide was initially associated with increased fractures. What intervention significantly reduced this risk?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducing the dose of radium-223"
+        },
+        {
+          "letter": "B",
+          "text": "Mandating the use of bone protecting agents"
+        },
+        {
+          "letter": "C",
+          "text": "Stopping enzalutamide"
+        },
+        {
+          "letter": "D",
+          "text": "Excluding patients with bone metastases"
+        }
+      ],
+      "key": "B",
+      "rationale": "The rate of fractures at 1 year significantly decreased when bone protecting agents were administered (2.6% v 15.6%).",
+      "citations": "Gillenssen, Eur Urol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "15",
+      "question": "A review of pancreas cancer contouring suggests that locoregional failure is often driven by what pattern of spread?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hematogenous spread"
+        },
+        {
+          "letter": "B",
+          "text": "Extra-pancreatic perineural invasion"
+        },
+        {
+          "letter": "C",
+          "text": "Intraperitoneal seeding"
+        },
+        {
+          "letter": "D",
+          "text": "Lymphatic spread only"
+        }
+      ],
+      "key": "B",
+      "rationale": "Extra-pancreatic perineural invasion (PNI) is nearly universal and a major driver of locoregional failure, often more so than lymph nodes.",
+      "citations": "Narang, Semin Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "16",
+      "question": "A randomized phase 2 trial used PSMA-PET to guide salvage radiation for prostate cancer. What was the outcome of PSMA-guided dose intensification?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased toxicity with no benefit"
+        },
+        {
+          "letter": "B",
+          "text": "Improved failure-free survival without increased toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "Improved survival but higher GI toxicity"
+        },
+        {
+          "letter": "D",
+          "text": "No difference compared to standard salvage"
+        }
+      ],
+      "key": "B",
+      "rationale": "PSMA-guided dose intensification significantly improved failure free survival and eugonadal failure free survival without an increase in toxicity.",
+      "citations": "Balliveau, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "17",
+      "question": "Long-term outcomes from the ECOG-ACRIN E3311 trial for HPV+ oropharyngeal cancer evaluated de-escalated adjuvant radiation (50 Gy). What was observed regarding recurrence in the arm that received no adjuvant RT (Arm A)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0% recurrence rate"
+        },
+        {
+          "letter": "B",
+          "text": "Multiple late recurrences, all in node-positive patients"
+        },
+        {
+          "letter": "C",
+          "text": "Recurrences were only local"
+        },
+        {
+          "letter": "D",
+          "text": "Survival was superior to the 50 Gy arm"
+        }
+      ],
+      "key": "B",
+      "rationale": "There were 3 additional late recurrences in Arm A (the no RT arm), and all were in patients with a positive node (14.8% recurrence in N1 patients).",
+      "citations": "Burtness, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "18",
+      "question": "The SANO trial compared active surveillance to standard esophagectomy for patients with a complete response to neoadjuvant chemoradiation. What was the 2-year overall survival outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surgery was superior (85% vs 60%)"
+        },
+        {
+          "letter": "B",
+          "text": "Surveillance was non-inferior (75% vs 70%)"
+        },
+        {
+          "letter": "C",
+          "text": "Surveillance led to higher distant metastasis rates"
+        },
+        {
+          "letter": "D",
+          "text": "Surgery had better quality of life at 6 months"
+        }
+      ],
+      "key": "B",
+      "rationale": "Intention-to-treat analysis reports 2 year overall survival rates of 75% after surveillance and 70% after surgery, meeting non-inferiority thresholds.",
+      "citations": "van der Wilk, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "19",
+      "question": "A small prospective trial treated patients with tumors involving the heart using MR-guided radiation. What was the rate of local recurrence free survival at 2 years?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%"
+        },
+        {
+          "letter": "B",
+          "text": "35%"
+        },
+        {
+          "letter": "C",
+          "text": "71.4%"
+        },
+        {
+          "letter": "D",
+          "text": "100%"
+        }
+      ],
+      "key": "C",
+      "rationale": "At 2 years, local recurrence free survival was 71.4%.",
+      "citations": "Zheng, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2024",
+      "num": "20",
+      "question": "Updated ASTRO guidelines for rectal cancer recommend what radiation approach for stage II-III disease?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adjuvant chemoradiation only"
+        },
+        {
+          "letter": "B",
+          "text": "Neoadjuvant long-course chemoradiation or short-course radiation"
+        },
+        {
+          "letter": "C",
+          "text": "Radiation only for T4 disease"
+        },
+        {
+          "letter": "D",
+          "text": "Avoidance of IMRT"
+        }
+      ],
+      "key": "B",
+      "rationale": "Neoadjuvant radiation in sequence with neoadjuvant chemotherapy was strongly recommended for all patients with stage II-III disease.",
+      "citations": "Wo, Pract Radiat Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "21",
+      "question": "A retrospective study evaluated the benefit of boosting rectal cancer radiation dose to 56-60 Gy compared to 50 Gy. What was the finding regarding pathologic complete response (pCR)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference in pCR"
+        },
+        {
+          "letter": "B",
+          "text": "pCR increased from 17% to 27% with the boost"
+        },
+        {
+          "letter": "C",
+          "text": "The boost reduced pCR rates"
+        },
+        {
+          "letter": "D",
+          "text": "pCR improved only for T2 tumors"
+        }
+      ],
+      "key": "B",
+      "rationale": "Those who received a boost dose of 56-60 Gy achieved a significantly higher rate of pathologic complete response (27% versus 17%).",
+      "citations": "Nicosia, Radiother Oncol 2025"
+    },
+    {
+      "year": "2026",
+      "num": "22",
+      "question": "A randomized trial evaluated oxybutynin for hot flashes in men on ADT. What was the effect on hot flash scores?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No improvement over placebo"
+        },
+        {
+          "letter": "B",
+          "text": "Significant reduction in hot flash scores"
+        },
+        {
+          "letter": "C",
+          "text": "Worsening of hot flashes"
+        },
+        {
+          "letter": "D",
+          "text": "Improvement only with 10mg dosing"
+        }
+      ],
+      "key": "B",
+      "rationale": "Those who took oxybutynin saw a significantly greater reduction in hot flash scores (9.94-13.95 vs 4.85 for placebo).",
+      "citations": "Stish, J Clin Oncol 2026"
+    },
+    {
+      "year": "2025",
+      "num": "23",
+      "question": "The MARIPOSA trial compared amivantamab plus lazertinib versus osimertinib for first-line EGFR-mutated NSCLC. What was the overall survival outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Osimertinib was superior"
+        },
+        {
+          "letter": "B",
+          "text": "No difference in overall survival"
+        },
+        {
+          "letter": "C",
+          "text": "The combination significantly improved overall survival (HR 0.75)"
+        },
+        {
+          "letter": "D",
+          "text": "The combination was too toxic to assess survival"
+        }
+      ],
+      "key": "C",
+      "rationale": "The combo significantly extended overall survival with a 25% relative reduction in death (HR 0.75).",
+      "citations": "Yang, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "24",
+      "question": "A retrospective study of spine SBRT for prostate cancer compared different target volume approaches (SIB vs GTV-only vs compartment). Which approach had the best progression-free survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "GTV-only"
+        },
+        {
+          "letter": "B",
+          "text": "Compartmental approach"
+        },
+        {
+          "letter": "C",
+          "text": "Simultaneous integrated boost (SIB) approach"
+        },
+        {
+          "letter": "D",
+          "text": "All approaches were equivalent"
+        }
+      ],
+      "key": "C",
+      "rationale": "The SIB approach was associated with the best outcomes with a PFS of 85.7% at 1 year compared to 81.2% and 45.5% with other approaches.",
+      "citations": "Seiler, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "25",
+      "question": "A study of retroperitoneal radiation found that exceeding what bowel constraint was associated with increased toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "V45 > 195cc"
+        },
+        {
+          "letter": "B",
+          "text": "V50 > 100cc"
+        },
+        {
+          "letter": "C",
+          "text": "Max dose > 55 Gy"
+        },
+        {
+          "letter": "D",
+          "text": "No constraint was associated with toxicity"
+        }
+      ],
+      "key": "A",
+      "rationale": "Exceeding bowel V45 >195cc was still associated with an increased risk of toxicity.",
+      "citations": "Yoder, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "26",
+      "question": "The DIPPER trial evaluated adjuvant camrelizumab (PD-1 inhibitor) after definitive chemoradiation for high-risk nasopharyngeal carcinoma. What was the impact on recurrence-free survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No improvement"
+        },
+        {
+          "letter": "B",
+          "text": "Significant improvement (87% vs 77%)"
+        },
+        {
+          "letter": "C",
+          "text": "Worse survival due to toxicity"
+        },
+        {
+          "letter": "D",
+          "text": "Improvement only in locoregional control"
+        }
+      ],
+      "key": "B",
+      "rationale": "Recurrence-free survival was significantly improved with camrelizumab from 77% to 87% at 3 years.",
+      "citations": "Liang, JAMA 2025"
+    },
+    {
+      "year": "2025",
+      "num": "27",
+      "question": "A study of LINAC electricity consumption compared single-energy ring-gantry (Halcyon) versus multi-energy C-arm LINACs. What was the finding?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "C-arm LINACs consumed less power"
+        },
+        {
+          "letter": "B",
+          "text": "Ring-gantry LINACs consumed significantly less power"
+        },
+        {
+          "letter": "C",
+          "text": "Power consumption was identical"
+        },
+        {
+          "letter": "D",
+          "text": "Power consumption depended only on beam-on time"
+        }
+      ],
+      "key": "B",
+      "rationale": "A single-energy, ring-gantry LINAC (Halcyon) had significantly less power consumption than a multi-energy C-arm LINAC.",
+      "citations": "Gupta, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "28",
+      "question": "The RAVENS trial evaluated the addition of Radium-223 to SBRT for oligometastatic prostate cancer. What was the effect on progression-free survival (PFS)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significant improvement in PFS"
+        },
+        {
+          "letter": "B",
+          "text": "No significant improvement in median PFS"
+        },
+        {
+          "letter": "C",
+          "text": "Worse PFS in the Radium-223 arm"
+        },
+        {
+          "letter": "D",
+          "text": "Improved PFS only in bone-only disease"
+        }
+      ],
+      "key": "B",
+      "rationale": "The addition of Radium-223 did not significantly improve the primary endpoint of median PFS (10.5 v 11.8 months).",
+      "citations": "Wang, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "29",
+      "question": "A study used deep learning to create an imaging risk score for p16+ oropharyngeal cancer. For which risk group did concurrent chemotherapy improve disease-free survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Low-risk group"
+        },
+        {
+          "letter": "B",
+          "text": "High-risk group"
+        },
+        {
+          "letter": "C",
+          "text": "Both groups equally"
+        },
+        {
+          "letter": "D",
+          "text": "Neither group"
+        }
+      ],
+      "key": "B",
+      "rationale": "Receipt of concurrent chemo significantly improved disease-free survival for the high-risk cohort with no discernible benefit seen in the low-risk cohort.",
+      "citations": "Song, JAMA Netw Open 2025"
+    },
+    {
+      "year": "2025",
+      "num": "30",
+      "question": "A Swedish registry study evaluated adding concurrent cisplatin to radiation for cT1-2 oropharyngeal cancer. Which subgroup showed a benefit?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All patients"
+        },
+        {
+          "letter": "B",
+          "text": "Patients >70 years old"
+        },
+        {
+          "letter": "C",
+          "text": "Patients <70 with multiple ipsilateral nodes"
+        },
+        {
+          "letter": "D",
+          "text": "Patients with T1N1 disease"
+        }
+      ],
+      "key": "C",
+      "rationale": "The only significant advantage was for patients younger than 70 with multiple ipsilateral nodes (i.e., N2b per p16-negative staging).",
+      "citations": "Adrian, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "31",
+      "question": "A randomized trial compared preoperative vs postoperative SRS for resected brain metastases. What was the outcome regarding local recurrence and leptomeningeal disease?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Postoperative SRS had lower recurrence rates"
+        },
+        {
+          "letter": "B",
+          "text": "Preoperative SRS had significantly lower composite failure rates (12% vs 20%)"
+        },
+        {
+          "letter": "C",
+          "text": "Leptomeningeal disease was higher with preoperative SRS"
+        },
+        {
+          "letter": "D",
+          "text": "No difference in any outcome"
+        }
+      ],
+      "key": "B",
+      "rationale": "The composite endpoint of local failure, nodular leptomeningeal disease, or grade 2+ radionecrosis was significantly lower in the preop group (12% v 20%).",
+      "citations": "Perlow, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "32",
+      "question": "A retrospective study of reirradiation for locoregionally recurrent NSCLC found what factor associated with better outcomes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use of photons over protons"
+        },
+        {
+          "letter": "B",
+          "text": "Incorporation of immunotherapy"
+        },
+        {
+          "letter": "C",
+          "text": "Higher total radiation dose"
+        },
+        {
+          "letter": "D",
+          "text": "Absence of chemotherapy"
+        }
+      ],
+      "key": "B",
+      "rationale": "Those who received immunotherapy had superior locoregional control and OS.",
+      "citations": "Rochetti, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "33",
+      "question": "A large study evaluated magnesium infusions during cisplatin therapy. What was the effect on acute kidney injury (AKI)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased AKI risk"
+        },
+        {
+          "letter": "B",
+          "text": "No effect on AKI"
+        },
+        {
+          "letter": "C",
+          "text": "Halved the rate of AKI (2.7% vs 5.3%)"
+        },
+        {
+          "letter": "D",
+          "text": "Magnesium caused cardiac toxicity"
+        }
+      ],
+      "key": "C",
+      "rationale": "Rates of subsequent AKI were halved in the magnesium cohort (2.7%) versus others (5.3%).",
+      "citations": "Gupta, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "34",
+      "question": "A study comparing flattening filter-free (FFF) vs flattened beams for lung SBRT found what regarding clinical outcomes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "FFF had worse local control"
+        },
+        {
+          "letter": "B",
+          "text": "FFF increased toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "No detriment to efficacy or toxicity with FFF"
+        },
+        {
+          "letter": "D",
+          "text": "FFF prolonged treatment time"
+        }
+      ],
+      "key": "C",
+      "rationale": "There was no detriment to excellent rates of long term efficacy and toxicity with FFF techniques.",
+      "citations": "Preault, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2024",
+      "num": "35",
+      "question": "The COMET trial compared active surveillance to standard care for low-risk DCIS. What was the 2-year invasive cancer detection rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0% in surveillance arm"
+        },
+        {
+          "letter": "B",
+          "text": "Significantly higher in surveillance arm"
+        },
+        {
+          "letter": "C",
+          "text": "4.2% in surveillance vs 5.9% in surgery (non-inferior)"
+        },
+        {
+          "letter": "D",
+          "text": "Surveillance was inferior"
+        }
+      ],
+      "key": "C",
+      "rationale": "The primary endpoint of detection of ipsilateral invasive cancer within two years was 5.9% in the surgery group versus 4.2% in the active surveillance group.",
+      "citations": "Hwang, JAMA 2024"
+    },
+    {
+      "year": "2025",
+      "num": "36",
+      "question": "A study of PSMA-PET for prostate cancer evaluated its prognostic value based on PSMA response. What predicted the best outcomes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Complete metabolic response in lymph nodes"
+        },
+        {
+          "letter": "B",
+          "text": "Complete response in the primary tumor only"
+        },
+        {
+          "letter": "C",
+          "text": "Partial response in all sites"
+        },
+        {
+          "letter": "D",
+          "text": "Baseline SUVmax"
+        }
+      ],
+      "key": "A",
+      "rationale": "Nodal complete response best delineated outcomes at 5 years—DMFS 87% vs 43%.",
+      "citations": "Onal, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "37",
+      "question": "A randomized trial evaluated palliative radiation with or without RFA/PVA for painful spine metastases. What was the result?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Combination therapy significantly improved pain control"
+        },
+        {
+          "letter": "B",
+          "text": "No difference in pain control at 3 months"
+        },
+        {
+          "letter": "C",
+          "text": "Radiation alone was superior"
+        },
+        {
+          "letter": "D",
+          "text": "RFA alone was superior"
+        }
+      ],
+      "key": "B",
+      "rationale": "The primary endpoint of pain control at 3 months was similar with or without RFA/PVA (48% v 50%).",
+      "citations": "Kotecha, Neuro Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "38",
+      "question": "A meta-analysis of SRS margins for brain metastases found what regarding local control and necrosis?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Margins significantly improved local control"
+        },
+        {
+          "letter": "B",
+          "text": "Margins significantly increased radionecrosis"
+        },
+        {
+          "letter": "C",
+          "text": "No significant difference in local control or necrosis with or without margins"
+        },
+        {
+          "letter": "D",
+          "text": "No margins resulted in high failure rates"
+        }
+      ],
+      "key": "C",
+      "rationale": "There was no significant difference in local control or the pooled rate of radiographic radionecrosis with or without a margin.",
+      "citations": "Singh, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "39",
+      "question": "The MANTLE trial evaluated manual therapy for late dysphagia after head and neck radiation. What was the finding?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Improved swallowing scores on MDADI"
+        },
+        {
+          "letter": "B",
+          "text": "Improved range of motion and symptoms but unclear swallowing benefit"
+        },
+        {
+          "letter": "C",
+          "text": "Worsened fibrosis"
+        },
+        {
+          "letter": "D",
+          "text": "No benefit observed"
+        }
+      ],
+      "key": "B",
+      "rationale": "Large improvements were seen in range of motion and symptoms, but improvement in swallowing as measured by MDADI scores was less clear.",
+      "citations": "McMillan, JAMA Otolaryngol Head Neck Surg 2025"
+    },
+    {
+      "year": "2025",
+      "num": "40",
+      "question": "A prospective study of palliative radiation delivered within a month of immunotherapy found what regarding grade 3+ toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rate was >20%"
+        },
+        {
+          "letter": "B",
+          "text": "No grade 3+ toxicity was observed"
+        },
+        {
+          "letter": "C",
+          "text": "Skin toxicity was high"
+        },
+        {
+          "letter": "D",
+          "text": "Pneumonitis was common"
+        }
+      ],
+      "key": "B",
+      "rationale": "There was no associated grade 3+ toxicity reported.",
+      "citations": "Harris, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2026",
+      "num": "41",
+      "question": "International consensus guidelines for renal cell carcinoma (RCC) SABR target delineation recommend including which structures in the target volume?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only the GTV"
+        },
+        {
+          "letter": "B",
+          "text": "Tumor thrombus and ablation cavities"
+        },
+        {
+          "letter": "C",
+          "text": "The entire kidney"
+        },
+        {
+          "letter": "D",
+          "text": "Elective nodal basins"
+        }
+      ],
+      "key": "B",
+      "rationale": "Consensus recommendation was to always include tumor thrombus and ablation cavities in the target volume.",
+      "citations": "Dhar, Int J Radiat Oncol Biol Phys 2026"
+    },
+    {
+      "year": "2026",
+      "num": "42",
+      "question": "An analysis of the HILUS trial for ultracentral lung SBRT identified which factors as predictors of grade 5 hemorrhage?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only total dose"
+        },
+        {
+          "letter": "B",
+          "text": "High bronchial dose (D0.31cc) and bronchial tumor compression"
+        },
+        {
+          "letter": "C",
+          "text": "Tumor size >5cm"
+        },
+        {
+          "letter": "D",
+          "text": "Use of antiplatelet therapy"
+        }
+      ],
+      "key": "B",
+      "rationale": "The two factors that best predicted grade 5 hemorrhage risk were near maximum dose (D0.31cc) and bronchial tumor compression.",
+      "citations": "Karlsson, Int J Radiat Oncol Biol Phys 2026"
+    },
+    {
+      "year": "2025",
+      "num": "43",
+      "question": "The PACIFIC-2 trial evaluated concurrent durvalumab with chemoradiation for stage III NSCLC. What was the outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significant improvement in PFS"
+        },
+        {
+          "letter": "B",
+          "text": "No improvement in PFS or OS compared to sequential durvalumab"
+        },
+        {
+          "letter": "C",
+          "text": "Improved survival in PD-L1 negative patients"
+        },
+        {
+          "letter": "D",
+          "text": "Reduced pneumonitis rates"
+        }
+      ],
+      "key": "B",
+      "rationale": "Adding durvalumab at day 1 did not significantly improve the primary endpoint of PFS (13.8 v 9.4 months) or OS compared to standard care.",
+      "citations": "Bradley, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "44",
+      "question": "Updated guidelines for postmastectomy radiation therapy (PMRT) recommend what fractionation scheme as the standard?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conventional fractionation (25-28 fractions)"
+        },
+        {
+          "letter": "B",
+          "text": "Moderate hypofractionation (15-16 fractions)"
+        },
+        {
+          "letter": "C",
+          "text": "Ultra-hypofractionation (5 fractions)"
+        },
+        {
+          "letter": "D",
+          "text": "Hyperfractionation"
+        }
+      ],
+      "key": "B",
+      "rationale": "Moderate hypofractionation (read: 15-16 fractions) is now officially preferred for virtually all scenarios.",
+      "citations": "Jimenez, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "45",
+      "question": "ESTRO guidelines for CTV delineation in post-op oral cavity cancer recommend what margin around the surrogate GTV/tumor bed?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 mm"
+        },
+        {
+          "letter": "B",
+          "text": "10 mm"
+        },
+        {
+          "letter": "C",
+          "text": "20 mm"
+        },
+        {
+          "letter": "D",
+          "text": "30 mm"
+        }
+      ],
+      "key": "B",
+      "rationale": "They recommend a 10 mm margin around the surrogate GTV.",
+      "citations": "Evans, Radiother Oncol 2025"
+    },
+    {
+      "year": "2024",
+      "num": "46",
+      "question": "The CYBER-SPACE trial compared MPRAGE vs SPACE MRI sequences for brain metastasis planning. Did the more sensitive SPACE sequence reduce the need for salvage whole brain radiation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, significantly"
+        },
+        {
+          "letter": "B",
+          "text": "No, there was no significant difference"
+        },
+        {
+          "letter": "C",
+          "text": "SPACE increased the need for WBRT"
+        },
+        {
+          "letter": "D",
+          "text": "SPACE improved survival"
+        }
+      ],
+      "key": "B",
+      "rationale": "Using the SPACE sequence did not significantly improve the rate of WBRT-free survival at 12 months.",
+      "citations": "El Shafie, Neuro Oncol 2024"
+    },
+    {
+      "year": "2024",
+      "num": "47",
+      "question": "A prospective study of hypofractionated breast radiation (26 Gy in 5 fractions) in Ireland reported what toxicity outcomes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "High rates of severe dermatitis"
+        },
+        {
+          "letter": "B",
+          "text": "5 of 6 women had no to minimal toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "Poor cosmesis in 50%"
+        },
+        {
+          "letter": "D",
+          "text": "High rates of lymphedema"
+        }
+      ],
+      "key": "B",
+      "rationale": "5 of 6 women have no to minimal toxicity at any time point.",
+      "citations": "Nicholson, Adv Radiat Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "48",
+      "question": "NRG BN007 compared temozolomide vs ipilimumab/nivolumab with radiation for MGMT-unmethylated GBM. What was the result?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ipi/nivo significantly improved PFS"
+        },
+        {
+          "letter": "B",
+          "text": "Ipi/nivo did not improve PFS or OS compared to TMZ"
+        },
+        {
+          "letter": "C",
+          "text": "Ipi/nivo improved OS but not PFS"
+        },
+        {
+          "letter": "D",
+          "text": "TMZ was significantly worse"
+        }
+      ],
+      "key": "B",
+      "rationale": "Ipi/nivo did not significantly improve median PFS compared to standard TMZ (7.7 v 8.5 months). Likewise, there was no difference in OS.",
+      "citations": "Lassman, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "49",
+      "question": "A study evaluating extended vs limited pelvic lymph node dissection during prostatectomy found what impact on metastasis-free survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No impact"
+        },
+        {
+          "letter": "B",
+          "text": "Extended dissection significantly improved metastasis-free survival at 10 years"
+        },
+        {
+          "letter": "C",
+          "text": "Limited dissection was superior"
+        },
+        {
+          "letter": "D",
+          "text": "Extended dissection only improved biochemical control"
+        }
+      ],
+      "key": "B",
+      "rationale": "The metastasis-free survival at 10 years was 88% after extended versus 85% after limited dissection (HR 0.75 for distant metastasis).",
+      "citations": "Touijer, Eur Urol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "50",
+      "question": "The NIVOPOSTOP trial randomized patients with high-risk resected HNSCC to adjuvant chemoradiation with or without nivolumab. What was the DFS outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference"
+        },
+        {
+          "letter": "B",
+          "text": "Significantly improved DFS with nivolumab (63% vs 53%)"
+        },
+        {
+          "letter": "C",
+          "text": "Worse DFS with nivolumab"
+        },
+        {
+          "letter": "D",
+          "text": "Improved DFS only in p16+ patients"
+        }
+      ],
+      "key": "B",
+      "rationale": "Disease-free survival at 3 years was 53% with chemoradiation alone versus 63% with the addition of nivo.",
+      "citations": "Bourhis, ASCO 2025"
+    },
+    {
+      "year": "2025",
+      "num": "51",
+      "question": "The ATOMIC trial evaluated adjuvant atezolizumab plus FOLFOX for stage III dMMR colon cancer. What was the 3-year disease-free survival (DFS) result?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No improvement with atezolizumab"
+        },
+        {
+          "letter": "B",
+          "text": "Significant improvement with atezolizumab (86% vs 77%)"
+        },
+        {
+          "letter": "C",
+          "text": "Atezolizumab was inferior to chemo alone"
+        },
+        {
+          "letter": "D",
+          "text": "Benefit only in stage II disease"
+        }
+      ],
+      "key": "B",
+      "rationale": "The primary endpoint of disease-free survival was at 3 years 77% with chemo and 86% with chemoimmunotherapy (HR 0.50).",
+      "citations": "Sinicrope, ASCO 2025"
+    },
+    {
+      "year": "2025",
+      "num": "52",
+      "question": "A dosimetric analysis of consolidative mediastinal radiation for Hodgkin lymphoma found what estimated lifetime risk of secondary breast cancer?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15%"
+        },
+        {
+          "letter": "B",
+          "text": "10%"
+        },
+        {
+          "letter": "C",
+          "text": "2.92%"
+        },
+        {
+          "letter": "D",
+          "text": "0%"
+        }
+      ],
+      "key": "C",
+      "rationale": "Estimated mean lifetime attributable risk of secondary breast cancer was 2.92%.",
+      "citations": "Milgrom, ASCO 2025"
+    },
+    {
+      "year": "2025",
+      "num": "53",
+      "question": "RTOG 0920 evaluated adding cetuximab to adjuvant radiation for intermediate-risk HNSCC. What was the effect on disease-free survival (DFS)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No improvement"
+        },
+        {
+          "letter": "B",
+          "text": "Significant improvement in DFS"
+        },
+        {
+          "letter": "C",
+          "text": "Improvement in overall survival only"
+        },
+        {
+          "letter": "D",
+          "text": "Benefit only in HPV+ patients"
+        }
+      ],
+      "key": "B",
+      "rationale": "There was a significant improvement in DFS. At 3 years, the rate of locoregional failure was lower with the addition of cetuximab (14.7% v 20.2%).",
+      "citations": "Machtay, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "54",
+      "question": "A large retrospective study evaluated outcomes for pancreatic cancer patients who received adjuvant chemotherapy after neoadjuvant FOLFIRINOX and resection. What was the finding?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adjuvant chemo offered no benefit"
+        },
+        {
+          "letter": "B",
+          "text": "Adjuvant chemo was associated with prolonged survival (HR 0.57)"
+        },
+        {
+          "letter": "C",
+          "text": "Adjuvant chemo was detrimental"
+        },
+        {
+          "letter": "D",
+          "text": "Benefit was seen only in ypN0 patients"
+        }
+      ],
+      "key": "B",
+      "rationale": "Post-operative chemo was clearly associated with prolonged survival (HR 0.57).",
+      "citations": "Stoop, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "55",
+      "question": "A dosimetric analysis of CyberKnife vs LINAC-based prostate SBRT plans from PACE-B found what regarding urethral dose?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "CyberKnife had better urethral sparing"
+        },
+        {
+          "letter": "B",
+          "text": "CyberKnife plans had worse urethral dosimetry"
+        },
+        {
+          "letter": "C",
+          "text": "Dosimetry was identical"
+        },
+        {
+          "letter": "D",
+          "text": "LINAC plans had higher hotspots"
+        }
+      ],
+      "key": "B",
+      "rationale": "CyberKnife plans actually revealed worse urethral dosimetry, suggesting clinical toxicity differences might be due to motion management.",
+      "citations": "Ratnakumaran, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "56",
+      "question": "A trial comparing a 'sandwich' approach (induction chemo -> RT -> adjuvant chemo) vs concurrent chemoradiation for nasopharyngeal carcinoma found what outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sandwich approach was inferior"
+        },
+        {
+          "letter": "B",
+          "text": "Sandwich approach was non-inferior with less toxicity during RT"
+        },
+        {
+          "letter": "C",
+          "text": "Concurrent CRT was superior in survival"
+        },
+        {
+          "letter": "D",
+          "text": "Sandwich approach had higher mucositis rates"
+        }
+      ],
+      "key": "B",
+      "rationale": "The sandwich approach was deemed noninferior (3yr FFS 83.7% v 79.5%) and had significantly less toxicity during RT.",
+      "citations": "Xue, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "57",
+      "question": "A trial of mediastinal nodal dissection for low-risk stage I ground glass lung adenocarcinoma was terminated early. Why?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poor accrual"
+        },
+        {
+          "letter": "B",
+          "text": "Life-threatening complications in the dissection arm"
+        },
+        {
+          "letter": "C",
+          "text": "High rate of nodal positivity in the observation arm"
+        },
+        {
+          "letter": "D",
+          "text": "Futlity"
+        }
+      ],
+      "key": "B",
+      "rationale": "The trial was terminated due to two life-threatening complications in the nodal dissection arm (chylothorax and SVC injury).",
+      "citations": "Zhang, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "58",
+      "question": "A retrospective study evaluated if continuing androgen receptor pathway inhibitors (ARPI) during Lu177-PSMA therapy affects response. What was found?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Continuing ARPI significantly improved response"
+        },
+        {
+          "letter": "B",
+          "text": "Stopping ARPI improved response"
+        },
+        {
+          "letter": "C",
+          "text": "Roughly half achieved PSA response regardless of continuing ARPI"
+        },
+        {
+          "letter": "D",
+          "text": "ARPI blocked Lu177 uptake"
+        }
+      ],
+      "key": "C",
+      "rationale": "Roughly half of men achieve a ≥50% reduction in PSA whether continuing ARPI (n=106) or not (150).",
+      "citations": "Muniz, Eur Urol Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "59",
+      "question": "The IMvigor011 trial used ctDNA to guide adjuvant atezolizumab in bladder cancer. What was the outcome for ctDNA-positive patients treated with atezolizumab?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No benefit"
+        },
+        {
+          "letter": "B",
+          "text": "Doubled disease-free survival (10 vs 5 months)"
+        },
+        {
+          "letter": "C",
+          "text": "Worse survival"
+        },
+        {
+          "letter": "D",
+          "text": "Benefit only in PD-L1 high tumors"
+        }
+      ],
+      "key": "B",
+      "rationale": "Among ctDNA-positive patients, the addition of early atezolizumab doubled median disease-free survival from 5 to 10 months (HR 0.64).",
+      "citations": "Powles, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "60",
+      "question": "PORTEC 4a randomized high-intermediate risk endometrial cancer to molecular-guided vs standard vaginal brachytherapy. What was the 5-year vaginal recurrence rate in the molecular arm?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0%"
+        },
+        {
+          "letter": "B",
+          "text": "4.5% (non-inferior to standard)"
+        },
+        {
+          "letter": "C",
+          "text": "Significantly higher than standard"
+        },
+        {
+          "letter": "D",
+          "text": "10%"
+        }
+      ],
+      "key": "B",
+      "rationale": "The rate of vaginal recurrence was deemed non-inferior with molecular-based adjuvant therapy, however the rate at 5 years was 4.5% compared to 1.6% with VBT.",
+      "citations": "van den Heerik, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "61",
+      "question": "A phase 2 trial added atezolizumab to neoadjuvant trastuzumab/chemo for HER2+ gastric cancer. What was the impact on pCR?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No improvement"
+        },
+        {
+          "letter": "B",
+          "text": "pCR improved from 14% to 38%"
+        },
+        {
+          "letter": "C",
+          "text": "pCR decreased"
+        },
+        {
+          "letter": "D",
+          "text": "Toxicity prevented completion of therapy"
+        }
+      ],
+      "key": "B",
+      "rationale": "The pathologic complete response rate was dramatically improved from 14% without to 38% with the addition of atezo.",
+      "citations": "Peng, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "62",
+      "question": "A trial of 'low-tech' telephone QOL monitoring for elderly cancer patients found what impact on healthcare utilization?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased ED visits due to anxiety"
+        },
+        {
+          "letter": "B",
+          "text": "No impact"
+        },
+        {
+          "letter": "C",
+          "text": "Reduced ED visits and hospitalizations"
+        },
+        {
+          "letter": "D",
+          "text": "Increased costs"
+        }
+      ],
+      "key": "C",
+      "rationale": "This yielded significantly less emergency department visits (48% → 31%) and halved hospitalizations (40% → 19%).",
+      "citations": "Patel, JAMA 2025"
+    },
+    {
+      "year": "2025",
+      "num": "63",
+      "question": "A retrospective study of ultra-hypofractionated radiation (6 Gy x 5) for melanoma found what surgical revision rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5%"
+        },
+        {
+          "letter": "B",
+          "text": "20%"
+        },
+        {
+          "letter": "C",
+          "text": "50%"
+        },
+        {
+          "letter": "D",
+          "text": "0%"
+        }
+      ],
+      "key": "A",
+      "rationale": "A retrospective look outcomes following 6 Gy x 5 mostly electron radiation reports a surgical revision rate of only 5%.",
+      "citations": "Yang, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "64",
+      "question": "A planning study of lung SBRT using a non-coplanar VMAT optimization found what benefit?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduced treatment time only"
+        },
+        {
+          "letter": "B",
+          "text": "Better conformity and lower OAR dose"
+        },
+        {
+          "letter": "C",
+          "text": "Higher target dose homogeneity"
+        },
+        {
+          "letter": "D",
+          "text": "No difference from standard VMAT"
+        }
+      ],
+      "key": "B",
+      "rationale": "The re-optimized plans had significantly lower conformity indices (better conformity) and significantly better sparing of the chest wall and lungs.",
+      "citations": "Kei, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "65",
+      "question": "A study of ypN0i+ (isolated tumor cells) breast cancer patients found what rate of axillary recurrence at 3 years?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%"
+        },
+        {
+          "letter": "B",
+          "text": "5%"
+        },
+        {
+          "letter": "C",
+          "text": "2%"
+        },
+        {
+          "letter": "D",
+          "text": "0%"
+        }
+      ],
+      "key": "C",
+      "rationale": "Reported a 2% axillary recurrence rate at 3 years regardless of receipt of completion axillary dissection.",
+      "citations": "Montagna, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "66",
+      "question": "A trial of bone SBRT found what 1-year local control rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%"
+        },
+        {
+          "letter": "B",
+          "text": "75%"
+        },
+        {
+          "letter": "C",
+          "text": "93%"
+        },
+        {
+          "letter": "D",
+          "text": "100%"
+        }
+      ],
+      "key": "C",
+      "rationale": "At 1 year, local control was 93.1%.",
+      "citations": "Spindler, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "67",
+      "question": "A Chinese phase 2 trial added atezolizumab to trastuzumab chemo for HER2+ gastric cancer. What was the pCR rate with atezolizumab?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14%"
+        },
+        {
+          "letter": "B",
+          "text": "38%"
+        },
+        {
+          "letter": "C",
+          "text": "60%"
+        },
+        {
+          "letter": "D",
+          "text": "No pCRs observed"
+        }
+      ],
+      "key": "B",
+      "rationale": "The primary endpoint of pathologic complete response rate was dramatically improved from 14% without to 38% with the addition of atezo.",
+      "citations": "Peng, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "68",
+      "question": "A study described 'two-stage' eye plaque brachytherapy for large uveal melanomas. What was the benefit?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduced treatment time"
+        },
+        {
+          "letter": "B",
+          "text": "Avoided enucleation in 13 patients"
+        },
+        {
+          "letter": "C",
+          "text": "Improved vision"
+        },
+        {
+          "letter": "D",
+          "text": "Lower cost"
+        }
+      ],
+      "key": "B",
+      "rationale": "Two treatments of 45 Gy is delivered to 13 patients with especially large tumors to successfully avoid enucleation.",
+      "citations": "Tran, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2024",
+      "num": "69",
+      "question": "5-year results from the OLIGOPELVIS trial of salvage pelvic nodal radiation for prostate cancer showed what outcomes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All patients recurred"
+        },
+        {
+          "letter": "B",
+          "text": "One-third remained free of biochemical recurrence"
+        },
+        {
+          "letter": "C",
+          "text": "High rate of late toxicity"
+        },
+        {
+          "letter": "D",
+          "text": "Survival was inferior to ADT alone"
+        }
+      ],
+      "key": "B",
+      "rationale": "Five-year outcomes demonstrate one-third of patients remain without biochemical recurrence at five years.",
+      "citations": "Vaugier, Eur Urol 2024"
+    },
+    {
+      "year": "2024",
+      "num": "70",
+      "question": "A cohort study of smoking cessation in cancer patients found what survival benefit?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No survival benefit"
+        },
+        {
+          "letter": "B",
+          "text": "Improved survival at 5 and 10 years for abstainers"
+        },
+        {
+          "letter": "C",
+          "text": "Benefit only for lung cancer patients"
+        },
+        {
+          "letter": "D",
+          "text": "Worse survival due to withdrawal stress"
+        }
+      ],
+      "key": "B",
+      "rationale": "Patients who were abstinent at 3 months after intervention had significantly better survival at 5 (65% v 61%) and 10 years (77% v 73%).",
+      "citations": "Cinciripini, JAMA Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "71",
+      "question": "The SUPREMO trial randomized intermediate-risk breast cancer patients to chest wall radiation or not after mastectomy. What was the 10-year overall survival result?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiation significantly improved survival"
+        },
+        {
+          "letter": "B",
+          "text": "No significant difference in overall survival"
+        },
+        {
+          "letter": "C",
+          "text": "Radiation worsened survival"
+        },
+        {
+          "letter": "D",
+          "text": "Radiation improved survival only in N1 patients"
+        }
+      ],
+      "key": "B",
+      "rationale": "The primary endpoint of overall survival at ten years with or without radiation was virtually identical at roughly 82%.",
+      "citations": "Kunkler, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "72",
+      "question": "An intra-patient randomized trial used a transparent film dressing during breast radiation. What was the effect on dermatitis?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased dermatitis"
+        },
+        {
+          "letter": "B",
+          "text": "No grade 2+ dermatitis on the film side vs 40% on unprotected side"
+        },
+        {
+          "letter": "C",
+          "text": "No difference"
+        },
+        {
+          "letter": "D",
+          "text": "Film caused allergic reactions"
+        }
+      ],
+      "key": "B",
+      "rationale": "At treatment’s end, none of the film-protected halves developed CTCAE grade ≥2 dermatitis, versus ~40% of the unprotected halves.",
+      "citations": "Harish, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "73",
+      "question": "The SOHO-01 trial evaluated sevabertinib for HER2-mutated NSCLC. What did it show?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No activity"
+        },
+        {
+          "letter": "B",
+          "text": "Meaningful durable responses"
+        },
+        {
+          "letter": "C",
+          "text": "High toxicity leading to trial closure"
+        },
+        {
+          "letter": "D",
+          "text": "Inferior to standard chemo"
+        }
+      ],
+      "key": "B",
+      "rationale": "The early-phase SOHO-01 trial suggests the HER2/EGFR-TKI sevabertinib produces meaningful, durable responses.",
+      "citations": "Le, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "74",
+      "question": "A phase 2 trial compared concurrent vs sequential pembrolizumab with chemoradiation for HNSCC. Which approach was superior?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concurrent was superior"
+        },
+        {
+          "letter": "B",
+          "text": "Sequential was superior in locoregional control and PFS"
+        },
+        {
+          "letter": "C",
+          "text": "Both were equivalent"
+        },
+        {
+          "letter": "D",
+          "text": "Concurrent had less toxicity"
+        }
+      ],
+      "key": "B",
+      "rationale": "The sequential arm had significantly better locoregional control (96% v 64%) and numerically better PFS (69% v 49%) and OS.",
+      "citations": "Zandberg, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "75",
+      "question": "A study of orbital inflammatory disease treated with 20 Gy in 10 fractions found what steroid-taper outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No patients could taper steroids"
+        },
+        {
+          "letter": "B",
+          "text": "56% tapered off steroids completely"
+        },
+        {
+          "letter": "C",
+          "text": "Radiation was ineffective"
+        },
+        {
+          "letter": "D",
+          "text": "Vision loss occurred in 50%"
+        }
+      ],
+      "key": "B",
+      "rationale": "Ultimately 32 patients (56%) were able to taper off steroids completely.",
+      "citations": "Ma, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "76",
+      "question": "A study of incontinence after salvage prostate radiation (SAKK 09/10) found what effect of dose escalation (64 vs 70 Gy)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70 Gy significantly increased incontinence"
+        },
+        {
+          "letter": "B",
+          "text": "No difference in incontinence rates"
+        },
+        {
+          "letter": "C",
+          "text": "Incontinence improved with higher dose"
+        },
+        {
+          "letter": "D",
+          "text": "Late incontinence was rare in both arms"
+        }
+      ],
+      "key": "B",
+      "rationale": "Dose escalation did not significantly impact the rates of post-treatment incontinence nor changes in continence over time.",
+      "citations": "Schroder, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "77",
+      "question": "A cohort study evaluated ablative radiation for resectable pancreatic cancer in high-risk patients. What was the 1-year local control?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%"
+        },
+        {
+          "letter": "B",
+          "text": "85.6%"
+        },
+        {
+          "letter": "C",
+          "text": "95%"
+        },
+        {
+          "letter": "D",
+          "text": "100%"
+        }
+      ],
+      "key": "B",
+      "rationale": "Local control was 85.6% at 1 year and 79.2% at 2 years.",
+      "citations": "Reyngold, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "78",
+      "question": "A pilot study used palliative radiation as bridging therapy for CAR T cell therapy. What was the in-field response rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0%"
+        },
+        {
+          "letter": "B",
+          "text": "30% complete response, 60% partial response"
+        },
+        {
+          "letter": "C",
+          "text": "100% complete response"
+        },
+        {
+          "letter": "D",
+          "text": "Radiation prevented CAR T efficacy"
+        }
+      ],
+      "key": "B",
+      "rationale": "30% had an in-field complete response, and 60% had a partial response.",
+      "citations": "Ababneh, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "79",
+      "question": "A study of definitive radiation for anterior nasal cavity cancer found what 5-year local recurrence rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%"
+        },
+        {
+          "letter": "B",
+          "text": "16%"
+        },
+        {
+          "letter": "C",
+          "text": "5%"
+        },
+        {
+          "letter": "D",
+          "text": "0%"
+        }
+      ],
+      "key": "B",
+      "rationale": "At 5 years, the rate of local recurrence was 16%.",
+      "citations": "Mankuzhy, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "80",
+      "question": "A study of the HYPO-RT-PC trial cohort (ultra-hypo prostate RT) found what regarding 10-year GU/GI toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significant increase in late toxicity"
+        },
+        {
+          "letter": "B",
+          "text": "No difference in excess GU/GI interventions/hospitalizations compared to controls"
+        },
+        {
+          "letter": "C",
+          "text": "High rate of secondary malignancies"
+        },
+        {
+          "letter": "D",
+          "text": "Worse outcomes than conventional fractionation"
+        }
+      ],
+      "key": "B",
+      "rationale": "Found no difference in excess GU or GI interventions or hospitalizations at 10 years in patients who were enrolled in the HYPO-RT-PC trial.",
+      "citations": "Persson, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "81",
+      "question": "A comparison of adjuvant vs salvage radiation for grade 2 meningioma found what regarding toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Salvage radiation had higher toxicity"
+        },
+        {
+          "letter": "B",
+          "text": "Adjuvant radiation had significantly higher acute and late toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "Toxicity was identical"
+        },
+        {
+          "letter": "D",
+          "text": "No grade 3+ toxicity was observed in either group"
+        }
+      ],
+      "key": "B",
+      "rationale": "Adjuvant versus salvage radiation results in significantly higher rates of acute (90% versus 69%) and late (57% versus 33%) toxicity.",
+      "citations": "Lee, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "82",
+      "question": "A study of taste impairment after H&N radiation found what prevalence at 1 year?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0%"
+        },
+        {
+          "letter": "B",
+          "text": "19%"
+        },
+        {
+          "letter": "C",
+          "text": "50%"
+        },
+        {
+          "letter": "D",
+          "text": "100%"
+        }
+      ],
+      "key": "B",
+      "rationale": "Taste impairment was reported by 19% at 12 months.",
+      "citations": "Neh, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "83",
+      "question": "A secondary analysis of the LUSTRE trial (SBRT vs hypofractionation for lung cancer) evaluated quality of life (QOL). What was the finding at 2 years?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SBRT had significantly better QOL"
+        },
+        {
+          "letter": "B",
+          "text": "Hypofractionation had significantly better QOL"
+        },
+        {
+          "letter": "C",
+          "text": "QOL outcomes were similar between arms"
+        },
+        {
+          "letter": "D",
+          "text": "QOL declined significantly in both arms"
+        }
+      ],
+      "key": "C",
+      "rationale": "By 24 months, all domains converged with small numerical advantages favoring hypofractionated radiation that did not reach clinically-meaningful thresholds.",
+      "citations": "Hou, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "84",
+      "question": "The NO-CUT trial evaluated non-operative management for rectal cancer complete responders. What was the 30-month distant relapse-free survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%"
+        },
+        {
+          "letter": "B",
+          "text": "74%"
+        },
+        {
+          "letter": "C",
+          "text": "95%"
+        },
+        {
+          "letter": "D",
+          "text": "100%"
+        }
+      ],
+      "key": "C",
+      "rationale": "At 30 months, the primary endpoint of distant relapse free survival was excellent with nonoperative management (95%).",
+      "citations": "Amatu, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "85",
+      "question": "A meta-analysis of prostate boost toxicity found what association with dose?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No association"
+        },
+        {
+          "letter": "B",
+          "text": "Logarithmic association between rectal/urethral max doses and toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "Linear association with mean dose only"
+        },
+        {
+          "letter": "D",
+          "text": "Boosts decreased toxicity"
+        }
+      ],
+      "key": "B",
+      "rationale": "There were significant logarithmic associations between rectal and urethral maximum doses and reported acute GI and late GU toxicities, respectively.",
+      "citations": "Patel, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "86",
+      "question": "A planning study compared tangent-based IMRT vs VMAT for breast radiation. Which technique had better contralateral OAR sparing?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "VMAT"
+        },
+        {
+          "letter": "B",
+          "text": "Tangent IMRT"
+        },
+        {
+          "letter": "C",
+          "text": "They were equivalent"
+        },
+        {
+          "letter": "D",
+          "text": "3D conformal"
+        }
+      ],
+      "key": "B",
+      "rationale": "IMRT plans had superior contralateral OAR dosimetry.",
+      "citations": "Marrazzo, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "87",
+      "question": "A randomized trial compared rectal spacers vs no spacer in patients receiving chemoradiation and brachytherapy. Did spacers reduce toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, significantly reduced late rectal toxicity"
+        },
+        {
+          "letter": "B",
+          "text": "No significant difference in acute or chronic rectal toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "Spacers increased toxicity"
+        },
+        {
+          "letter": "D",
+          "text": "Reduced toxicity only in the acute setting"
+        }
+      ],
+      "key": "B",
+      "rationale": "The rates of acute (55.6% v 46.9%) and chronic (9.5% v 16.7%) rectal toxicity were similar between groups.",
+      "citations": "Wang, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2024",
+      "num": "88",
+      "question": "Long-term follow-up of NRG (GOG) 258 for endometrial cancer compared chemoradiation vs chemotherapy. What was the overall survival result?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chemoradiation was superior"
+        },
+        {
+          "letter": "B",
+          "text": "Chemotherapy was superior"
+        },
+        {
+          "letter": "C",
+          "text": "No difference in overall survival"
+        },
+        {
+          "letter": "D",
+          "text": "Chemoradiation improved survival in stage III only"
+        }
+      ],
+      "key": "C",
+      "rationale": "There was no difference in overall survival outcomes between groups.",
+      "citations": "Matei, J Clin Oncol 2024"
+    },
+    {
+      "year": "2024",
+      "num": "89",
+      "question": "A study of lung SBRT using abdominal compression found what regarding target margins?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10mm margins are required"
+        },
+        {
+          "letter": "B",
+          "text": "5mm margins are sufficient"
+        },
+        {
+          "letter": "C",
+          "text": "Margins can be 2mm"
+        },
+        {
+          "letter": "D",
+          "text": "Abdominal compression requires larger margins"
+        }
+      ],
+      "key": "B",
+      "rationale": "Only 53 fractions (8.7%) had shifts ≥5.0 mm... Ultimately the authors conclude 5-mm margins are sufficient.",
+      "citations": "Walter, Pract Radiat Oncol 2024"
+    },
+    {
+      "year": "2024",
+      "num": "90",
+      "question": "A case report described successful treatment of Rosai-Dorfman disease with radiation. What was the regimen?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 Gy in 5 fractions"
+        },
+        {
+          "letter": "B",
+          "text": "40 Gy in 15 fractions"
+        },
+        {
+          "letter": "C",
+          "text": "30 Gy in 10 fractions"
+        },
+        {
+          "letter": "D",
+          "text": "8 Gy single fraction"
+        }
+      ],
+      "key": "B",
+      "rationale": "Details successful durable treatment of large-volume Rosai-Dorfman disease... with a hypofractionated course of 40 Gy in 15 fractions.",
+      "citations": "Guenzel, Adv Radiat Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "91",
+      "question": "The PEACE-3 trial evaluated adding radium-223 to enzalutamide for mCRPC. What was the impact on radiographic progression-free survival (rPFS)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No improvement"
+        },
+        {
+          "letter": "B",
+          "text": "Significant improvement (19.4 vs 16.4 months)"
+        },
+        {
+          "letter": "C",
+          "text": "Worse rPFS"
+        },
+        {
+          "letter": "D",
+          "text": "Improved only in visceral mets"
+        }
+      ],
+      "key": "B",
+      "rationale": "The addition of radium-223 significantly prolonged the primary endpoint of median radiographic progression free survival (19.4 v 16.4 mo).",
+      "citations": "Tombal, Ann Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "92",
+      "question": "A study of next-line therapy for NSCLC after chemo-IO found which regimen had the best outcomes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Docetaxel"
+        },
+        {
+          "letter": "B",
+          "text": "Second-line immunotherapy (monotherapy or with chemo)"
+        },
+        {
+          "letter": "C",
+          "text": "Gemcitabine"
+        },
+        {
+          "letter": "D",
+          "text": "Pemetrexed"
+        }
+      ],
+      "key": "B",
+      "rationale": "Second-line ICI as monotherapy or in combo with chemo appeared to produce longer disease-free intervals and survival.",
+      "citations": "Velchetti, JAMA Netw Open 2025"
+    },
+    {
+      "year": "2025",
+      "num": "93",
+      "question": "A retrospective study evaluated DPYD testing before 5-FU chemotherapy. What was the finding regarding treatment-related death?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference"
+        },
+        {
+          "letter": "B",
+          "text": "Numerically less death with testing (0.18% vs 0.72%)"
+        },
+        {
+          "letter": "C",
+          "text": "Testing increased death rates"
+        },
+        {
+          "letter": "D",
+          "text": "Testing was not feasible"
+        }
+      ],
+      "key": "B",
+      "rationale": "Preemptive DPYD-gene alteration testing experienced numerically less treatment-related death (0.18%) than those who didn’t (0.72%).",
+      "citations": "Yu, JCO Oncol Pract 2025"
+    },
+    {
+      "year": "2024",
+      "num": "94",
+      "question": "A review of reirradiation for locally recurrent rectal cancer recommends what fractionation for curative intent treatment of unresectable disease?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SBRT 30 Gy in 5 fractions"
+        },
+        {
+          "letter": "B",
+          "text": "Hyperfractionated 1.2-1.5 Gy BID to 39-50 Gy"
+        },
+        {
+          "letter": "C",
+          "text": "Standard 1.8 Gy daily to 50.4 Gy"
+        },
+        {
+          "letter": "D",
+          "text": "Palliative 20 Gy in 5 fractions"
+        }
+      ],
+      "key": "B",
+      "rationale": "The most robust data supports hyperfractionation with something like 1.2-1.5 Gy twice daily to 39-45 Gy (or ~50 Gy for unresectable).",
+      "citations": "Rutenberg, Pract Radiat Oncol 2024"
+    },
+    {
+      "year": "2024",
+      "num": "95",
+      "question": "ESTRO/EANO guidelines for reirradiating glioblastoma recommend what dose for smaller targets?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 Gy in 1 fraction"
+        },
+        {
+          "letter": "B",
+          "text": "27-30 Gy in 3-5 fractions"
+        },
+        {
+          "letter": "C",
+          "text": "35 Gy in 10 fractions"
+        },
+        {
+          "letter": "D",
+          "text": "50 Gy in 25 fractions"
+        }
+      ],
+      "key": "B",
+      "rationale": "Preferred regimens of 27-30 Gy in 3-5 fractions for smaller targets.",
+      "citations": "Andratschke, Radiother Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "96",
+      "question": "The CONKO-007 trial evaluated adding chemoradiation to induction chemotherapy for unresectable pancreatic cancer. What was the effect on R0 resection rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No impact"
+        },
+        {
+          "letter": "B",
+          "text": "Significantly increased R0 rate among those who had surgery"
+        },
+        {
+          "letter": "C",
+          "text": "Decreased R0 rate"
+        },
+        {
+          "letter": "D",
+          "text": "Increased R0 but worse survival"
+        }
+      ],
+      "key": "B",
+      "rationale": "When looking at those who actually had surgery, CRT did significantly increase the R0 resection rate (69.4% v 50%).",
+      "citations": "Fietkau, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "97",
+      "question": "A study of peer review in stereotactic radiation found what association with physician volume?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Higher volume physicians had more plan revisions"
+        },
+        {
+          "letter": "B",
+          "text": "Lower volume physicians had higher plan revision rates (28.5% v 16.8%)"
+        },
+        {
+          "letter": "C",
+          "text": "Volume was not associated with revisions"
+        },
+        {
+          "letter": "D",
+          "text": "Mid-career physicians had the highest revision rates"
+        }
+      ],
+      "key": "B",
+      "rationale": "Plan revision rates were higher for lower volume physicians with 10 or fewer stereotactic cases in the prior 3 months (28.5% v 16.8%).",
+      "citations": "Peng, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "98",
+      "question": "The NARLAL2 trial evaluated PET-guided dose escalation for locally advanced NSCLC. Did dose escalation increase acute toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, significantly increased esophagitis"
+        },
+        {
+          "letter": "B",
+          "text": "No, no significant difference in acute grade 2+ toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "Yes, increased pneumonitis"
+        },
+        {
+          "letter": "D",
+          "text": "Yes, increased cardiac events"
+        }
+      ],
+      "key": "B",
+      "rationale": "Dose escalation did not significantly increase grade 2 or grade 3 esophagitis or pneumonitis.",
+      "citations": "Schytte, J Clin Oncol 2025"
+    },
+    {
+      "year": "2024",
+      "num": "99",
+      "question": "The HN004 trial compared durvalumab vs cetuximab with radiation for cisplatin-ineligible HNSCC. What was the outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Durvalumab was superior"
+        },
+        {
+          "letter": "B",
+          "text": "Cetuximab was superior (PFS 55% vs 31% in p16-)"
+        },
+        {
+          "letter": "C",
+          "text": "Outcomes were identical"
+        },
+        {
+          "letter": "D",
+          "text": "Durvalumab had less toxicity but equal efficacy"
+        }
+      ],
+      "key": "B",
+      "rationale": "Among p16 negative patients, PFS at 2 years was 31.4% with durvalumab versus 55.4% with cetuximab.",
+      "citations": "Mell, Lancet Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "100",
+      "question": "A randomized trial compared stereotactic radiosurgery (SRS) vs hippocampal-avoidance whole brain radiation (HA-WBRT) for 5-20 brain metastases. What was the finding regarding symptom severity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "HA-WBRT had better symptom control"
+        },
+        {
+          "letter": "B",
+          "text": "SRS resulted in decreased symptom severity compared to HA-WBRT"
+        },
+        {
+          "letter": "C",
+          "text": "No difference in symptoms"
+        },
+        {
+          "letter": "D",
+          "text": "SRS had worse toxicity"
+        }
+      ],
+      "key": "B",
+      "rationale": "In the six months following SRS, symptom severity decreased, while it increased following HA-WBRT, producing a significant difference.",
+      "citations": "Aizer, ASCO 2025"
+    },
+    {
+      "year": "2025",
+      "num": "101",
+      "question": "The SPRING-01 phase 2 trial evaluated the addition of sintilimab to total neoadjuvant therapy (short course RT + CAPOX) for high-risk locally advanced rectal cancer. What was the impact on pathologic complete response (pCR)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pCR was significantly improved with sintilimab (59.2% vs 32.7%)"
+        },
+        {
+          "letter": "B",
+          "text": "pCR was unchanged"
+        },
+        {
+          "letter": "C",
+          "text": "pCR was lower with sintilimab due to toxicity"
+        },
+        {
+          "letter": "D",
+          "text": "Sintilimab improved pCR only in dMMR tumors"
+        }
+      ],
+      "key": "A",
+      "rationale": "The pCR rate was 59.2% with the addition of sintilimab versus 32.7% without.",
+      "citations": "Tian, ASCO 2025"
+    },
+    {
+      "year": "2025",
+      "num": "102",
+      "question": "The EXTEND basket trial evaluated the addition of metastasis-directed therapy (MDT) to standard care for oligometastatic cancer. Which histology-specific baskets showed an improvement in progression-free survival with MDT?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Breast and renal only"
+        },
+        {
+          "letter": "B",
+          "text": "Pancreas, prostate, and 'other'"
+        },
+        {
+          "letter": "C",
+          "text": "All histologies showed benefit"
+        },
+        {
+          "letter": "D",
+          "text": "None showed benefit"
+        }
+      ],
+      "key": "B",
+      "rationale": "The pancreas, prostate, and 'other' baskets saw improved PFS with MDT, but the breast and renal baskets did not.",
+      "citations": "Sherry, ASTRO 2025"
+    },
+    {
+      "year": "2025",
+      "num": "103",
+      "question": "NRG-BN001 was a randomized phase 2 trial comparing photon versus proton dose-escalated radiation (75 Gy) for glioblastoma. What was the finding regarding overall survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Photons were superior"
+        },
+        {
+          "letter": "B",
+          "text": "Protons were associated with improved median survival (22.8 vs 22 months)"
+        },
+        {
+          "letter": "C",
+          "text": "There was no difference"
+        },
+        {
+          "letter": "D",
+          "text": "Protons caused excessive toxicity"
+        }
+      ],
+      "key": "B",
+      "rationale": "Proton SIB to 75 Gy eeked out an advantage in median survival (22 → 22.8 months, HR 0.81) and survival at 3 years (25% → 30%).",
+      "citations": "Mehta, ASTRO 2025"
+    },
+    {
+      "year": "2025",
+      "num": "104",
+      "question": "The METIS phase 3 trial evaluated tumor treating fields (TTFields) after stereotactic radiosurgery (SRS) for 1-10 brain metastases from NSCLC. What was the primary outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Improved overall survival"
+        },
+        {
+          "letter": "B",
+          "text": "Prolonged time to intracranial progression"
+        },
+        {
+          "letter": "C",
+          "text": "No difference in any outcome"
+        },
+        {
+          "letter": "D",
+          "text": "Worse quality of life without efficacy benefit"
+        }
+      ],
+      "key": "B",
+      "rationale": "Follow-on tumor treating fields prolonged time to intracranial progression (HR 0.72) with consistent separation at 6, 12, and 24 months.",
+      "citations": "Gondi, ASTRO 2025"
+    },
+    {
+      "year": "2025",
+      "num": "105",
+      "question": "The THORA phase 2 trial compared 60 Gy in 40 twice-daily fractions versus 45 Gy in 30 twice-daily fractions for limited stage small cell lung cancer. What was the impact on survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference in survival"
+        },
+        {
+          "letter": "B",
+          "text": "Median overall survival was nearly doubled with 60 Gy"
+        },
+        {
+          "letter": "C",
+          "text": "60 Gy was toxic and reduced survival"
+        },
+        {
+          "letter": "D",
+          "text": "Improved survival only in patients who did not receive PCI"
+        }
+      ],
+      "key": "B",
+      "rationale": "Median OS was nearly doubled from 22.5 to 43.5 months with the dose-escalated regimen.",
+      "citations": "Gronberg, J Thor Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "106",
+      "question": "A phase 2 trial evaluated neoadjuvant pembrolizumab for locoregionally advanced cutaneous squamous cell carcinoma. Among patients with a complete pathologic or clinical response (cCR/pCR), what was the recurrence rate without further surgery or radiation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%"
+        },
+        {
+          "letter": "B",
+          "text": "20%"
+        },
+        {
+          "letter": "C",
+          "text": "0% at 12 months"
+        },
+        {
+          "letter": "D",
+          "text": "100%"
+        }
+      ],
+      "key": "C",
+      "rationale": "No patients with a cCR or pCR had recurrence. Among those with a cCR or pCR, the rate of EFS at 12 months was 94%.",
+      "citations": "Ladwa, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "107",
+      "question": "The DIPLOMA trial compared minimally-invasive versus open distal pancreatectomy for cancer. What was the finding regarding R0 resection rates?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Open surgery had superior R0 rates"
+        },
+        {
+          "letter": "B",
+          "text": "Minimally-invasive surgery was non-inferior for R0 resection"
+        },
+        {
+          "letter": "C",
+          "text": "Minimally-invasive surgery had unacceptably low R0 rates"
+        },
+        {
+          "letter": "D",
+          "text": "R0 rates depended on tumor size"
+        }
+      ],
+      "key": "B",
+      "rationale": "The minimal approach resulted in non-inferior rates of R0 resection (73% versus 69%, respectively).",
+      "citations": "Bruna, JAMA Surg 2025"
+    },
+    {
+      "year": "2025",
+      "num": "108",
+      "question": "The UPGRADE-RT trial compared standard (50 Gy) versus de-escalated (43 Gy) elective nodal irradiation for head and neck cancer. What was the impact on swallowing function?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De-escalation significantly improved swallowing at 1 year"
+        },
+        {
+          "letter": "B",
+          "text": "No significant difference in swallowing at 1 year"
+        },
+        {
+          "letter": "C",
+          "text": "Standard dose had better swallowing outcomes"
+        },
+        {
+          "letter": "D",
+          "text": "De-escalation improved swallowing only in N0 patients"
+        }
+      ],
+      "key": "B",
+      "rationale": "The primary outcome of physician-scoring of the ability to eat 10 different food categories at one year after treatment was virtually identical either way.",
+      "citations": "van den Bosch, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "109",
+      "question": "A phase 2 trial evaluated radiation alone (MDT) for oligometastatic renal cell carcinoma (RCC). What was the median systemic therapy-free survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 months"
+        },
+        {
+          "letter": "B",
+          "text": "12 months"
+        },
+        {
+          "letter": "C",
+          "text": "34 months"
+        },
+        {
+          "letter": "D",
+          "text": "MDT did not delay systemic therapy"
+        }
+      ],
+      "key": "C",
+      "rationale": "The median systemic therapy free survival was a whopping 34 months.",
+      "citations": "Tang, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "110",
+      "question": "A comparative analysis of IMRT vs 3D conformal radiation for locally advanced NSCLC in a statewide consortium found what regarding toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "IMRT significantly reduced grade 2+ pneumonitis"
+        },
+        {
+          "letter": "B",
+          "text": "IMRT significantly reduced esophagitis"
+        },
+        {
+          "letter": "C",
+          "text": "No significant difference in short-term grade 2+ toxicity"
+        },
+        {
+          "letter": "D",
+          "text": "3D conformal was less toxic"
+        }
+      ],
+      "key": "C",
+      "rationale": "There were no significant differences in the rates of grade 2+ or grade 3+ esophagitis or pneumonitis reported at 6 months.",
+      "citations": "Allen, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "111",
+      "question": "A phase 2 trial evaluated short-course radiation followed by FOLFOXIRI for rectal cancer organ preservation. What was the 2-year TME-free survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80%"
+        },
+        {
+          "letter": "B",
+          "text": "26%"
+        },
+        {
+          "letter": "C",
+          "text": "50%"
+        },
+        {
+          "letter": "D",
+          "text": "10%"
+        }
+      ],
+      "key": "B",
+      "rationale": "In the overall study population, the rate of TME-free survival at 2 years was 26%.",
+      "citations": "Klebaner, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "112",
+      "question": "The GEMSTONE-303 trial evaluated the addition of sugemalimab (PD-L1 inhibitor) to chemotherapy for unresectable gastric cancer. What was the survival outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No improvement"
+        },
+        {
+          "letter": "B",
+          "text": "Improved overall survival (16 vs 13 months)"
+        },
+        {
+          "letter": "C",
+          "text": "Worse survival due to toxicity"
+        },
+        {
+          "letter": "D",
+          "text": "Benefit only in PD-L1 negative tumors"
+        }
+      ],
+      "key": "B",
+      "rationale": "Median overall survival was improved from 13 to 16 months.",
+      "citations": "Zhang, JAMA 2025"
+    },
+    {
+      "year": "2025",
+      "num": "113",
+      "question": "Updated ASTRO guidelines for anal cancer state what regarding the use of IMRT?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "IMRT is not recommended"
+        },
+        {
+          "letter": "B",
+          "text": "IMRT is the recommended standard"
+        },
+        {
+          "letter": "C",
+          "text": "3D conformal is preferred"
+        },
+        {
+          "letter": "D",
+          "text": "Proton therapy is the standard"
+        }
+      ],
+      "key": "B",
+      "rationale": "IMRT-based radiation with concurrent 5FU and mitomycin C remain standard.",
+      "citations": "Feng, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "114",
+      "question": "The DEPEND phase 2 trial evaluated de-escalated therapy for HPV-negative HNSCC responders to neoadjuvant chemoimmunotherapy. What proportion had >50% tumor reduction?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%"
+        },
+        {
+          "letter": "B",
+          "text": "53%"
+        },
+        {
+          "letter": "C",
+          "text": "90%"
+        },
+        {
+          "letter": "D",
+          "text": "0%"
+        }
+      ],
+      "key": "B",
+      "rationale": "Just over half of patients (53%) had a >50% reduction in tumor volume.",
+      "citations": "Rosenberg, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "115",
+      "question": "A meta-analysis of ablative treatments for localized renal cell carcinoma found what local control rate for SBRT at 5 years?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "95%"
+        },
+        {
+          "letter": "B",
+          "text": "80%"
+        },
+        {
+          "letter": "C",
+          "text": "50%"
+        },
+        {
+          "letter": "D",
+          "text": "SBRT was inferior to ablation"
+        }
+      ],
+      "key": "A",
+      "rationale": "The rate of local control at 5 years was 95% for SBRT.",
+      "citations": "Huang, Lancet Oncol 2025"
+    },
+    {
+      "year": "2024",
+      "num": "116",
+      "question": "An international consensus on radiographic extranodal extension (ENE) in head and neck cancer agreed on what definition?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Matted nodes alone"
+        },
+        {
+          "letter": "B",
+          "text": "Indistinct or irregular nodal margins"
+        },
+        {
+          "letter": "C",
+          "text": "Nodes >3cm"
+        },
+        {
+          "letter": "D",
+          "text": "Central necrosis"
+        }
+      ],
+      "key": "B",
+      "rationale": "'Indistinct' or 'irregular' nodal margins represent a hallmark of ENE.",
+      "citations": "Henson, Lancet Oncol 2024"
+    },
+    {
+      "year": "2024",
+      "num": "117",
+      "question": "Long-term follow-up of a 15-year-old APBI dose escalation trial (32 vs 36 vs 40 Gy in 10 fractions) found what regarding adverse effects?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference in toxicity"
+        },
+        {
+          "letter": "B",
+          "text": "Higher dose was associated with more severe fibrosis and worse cosmesis"
+        },
+        {
+          "letter": "C",
+          "text": "Lower dose had worse local control"
+        },
+        {
+          "letter": "D",
+          "text": "40 Gy had the best cosmetic outcome"
+        }
+      ],
+      "key": "B",
+      "rationale": "Higher rates of severe fibrosis (40% v 58% v 67%) and more patient-rated fair or poor cosmesis (25% v 30% v 49%) were seen with higher doses.",
+      "citations": "Taghian, Int J Radiat Oncol Biol Phys 2024"
+    },
+    {
+      "year": "2025",
+      "num": "118",
+      "question": "A study of breast surface dose and toxicity found that an axilla surface D2cc >48 Gy was associated with what?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lymphedema"
+        },
+        {
+          "letter": "B",
+          "text": "Moist desquamation"
+        },
+        {
+          "letter": "C",
+          "text": "Brachial plexopathy"
+        },
+        {
+          "letter": "D",
+          "text": "Shoulder pain"
+        }
+      ],
+      "key": "B",
+      "rationale": "Axilla surface D2cc >48 Gy was associated with a significantly higher risk of moist desquamation.",
+      "citations": "Salari, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "119",
+      "question": "A retrospective study used molecular profiling (IntegratedScore) to classify grade 1 meningiomas. What was observed for those with intermediate/high risk scores treated with subtotal resection?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Excellent progression-free survival"
+        },
+        {
+          "letter": "B",
+          "text": "Significantly lower progression-free survival (40%) compared to low risk"
+        },
+        {
+          "letter": "C",
+          "text": "No recurrence regardless of resection extent"
+        },
+        {
+          "letter": "D",
+          "text": "Adjuvant RT offered no benefit"
+        }
+      ],
+      "key": "B",
+      "rationale": "Intermediate and high risk IntS was associated with lower PFS after STR (40% v 85.9%).",
+      "citations": "Deng, Neuro Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "120",
+      "question": "An imaging review of prostate anatomy for SBRT planning found what regarding the internal pudendal artery (IPA)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is always adherent to the prostate"
+        },
+        {
+          "letter": "B",
+          "text": "It is typically >2 cm from the prostate"
+        },
+        {
+          "letter": "C",
+          "text": "It cannot be spared with SBRT"
+        },
+        {
+          "letter": "D",
+          "text": "It receives full dose in most plans"
+        }
+      ],
+      "key": "B",
+      "rationale": "The median distance to the IPA was 2.3 cm.",
+      "citations": "Woo, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "121",
+      "question": "RACE-GB randomized patients with unresectable gallbladder cancer to consolidative chemoradiation vs observation after induction chemo. What was the survival outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference"
+        },
+        {
+          "letter": "B",
+          "text": "Median survival improved from 4 to 10 months"
+        },
+        {
+          "letter": "C",
+          "text": "Chemoradiation was detrimental"
+        },
+        {
+          "letter": "D",
+          "text": "Improved survival only in node negative disease"
+        }
+      ],
+      "key": "B",
+      "rationale": "Overall survival from randomization was significantly improved from 4 months with observation to 10 months with the addition of consolidative chemoradiation.",
+      "citations": "Agrawal, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "122",
+      "question": "A multicenter study comparing standard vs reduced dose preoperative SRS for brain metastases found what regarding local recurrence?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduced dose had higher recurrence"
+        },
+        {
+          "letter": "B",
+          "text": "No difference in local recurrence at 2 years"
+        },
+        {
+          "letter": "C",
+          "text": "Standard dose had higher necrosis"
+        },
+        {
+          "letter": "D",
+          "text": "Dose did not matter, but size did"
+        }
+      ],
+      "key": "B",
+      "rationale": "At the 2 year mark, there were no differences in local recurrence (16% v 15%).",
+      "citations": "Prabhu, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "123",
+      "question": "A retrospective review of daily vs every-other-day (EOD) 5-fraction partial breast irradiation found what regarding toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Daily treatment had higher toxicity"
+        },
+        {
+          "letter": "B",
+          "text": "EOD treatment had higher toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "Acute and late toxicity were similar between schedules"
+        },
+        {
+          "letter": "D",
+          "text": "Daily treatment caused more fibrosis"
+        }
+      ],
+      "key": "C",
+      "rationale": "Rates of acute breast dermatitis were, if anything, better with daily treatment... Rates of late toxicity were identical.",
+      "citations": "Parker, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "124",
+      "question": "A study of bowel dose constraints for 5-fraction prostate elective nodal irradiation found what association with toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "V20 was the strongest predictor"
+        },
+        {
+          "letter": "B",
+          "text": "No significant association between bowel dosimetry and toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "V25 > 20cc predicted grade 3 toxicity"
+        },
+        {
+          "letter": "D",
+          "text": "Large bowel dose predicted toxicity but not small bowel"
+        }
+      ],
+      "key": "B",
+      "rationale": "There was no significant association between bowel bag or bowel loop dosimetry and acute or late toxicity risk.",
+      "citations": "Ong, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "125",
+      "question": "A randomized trial compared proton versus involved-field photon craniospinal irradiation (CSI) for leptomeningeal disease. What was the survival result?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference"
+        },
+        {
+          "letter": "B",
+          "text": "Proton CSI improved overall survival (11 vs 5 months)"
+        },
+        {
+          "letter": "C",
+          "text": "Involved field photons were superior"
+        },
+        {
+          "letter": "D",
+          "text": "Proton CSI was too toxic"
+        }
+      ],
+      "key": "B",
+      "rationale": "Proton CSI demonstrated improved overall survival (median 11 versus 5 months).",
+      "citations": "Yang, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "126",
+      "question": "A study comparing complications of post-mastectomy radiation (PMRT) with proton vs photon therapy in implant-based reconstruction found what?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Protons had fewer complications"
+        },
+        {
+          "letter": "B",
+          "text": "Protons were associated with higher rates of contracture and implant loss"
+        },
+        {
+          "letter": "C",
+          "text": "No difference in complications"
+        },
+        {
+          "letter": "D",
+          "text": "Photons had higher rates of explantation"
+        }
+      ],
+      "key": "B",
+      "rationale": "Proton therapy was associated with significantly higher rates of contracture (30% v 10%), implant loss (48% v 28%), explantation (32% v 16%), and overall reconstruction failure.",
+      "citations": "Naoum, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "127",
+      "question": "A randomized phase 3 trial compared IMPT vs IMRT for oropharyngeal cancer. What was the finding regarding toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference"
+        },
+        {
+          "letter": "B",
+          "text": "IMPT significantly reduced grade 3+ dysphagia and xerostomia"
+        },
+        {
+          "letter": "C",
+          "text": "IMRT had less dermatitis"
+        },
+        {
+          "letter": "D",
+          "text": "IMPT increased osteoradionecrosis"
+        }
+      ],
+      "key": "B",
+      "rationale": "IMPT appeared to significantly reduce grade ≥3 dysphagia (34% vs 49%), xerostomia (33% vs 45%).",
+      "citations": "Frank, Lancet 2025"
+    },
+    {
+      "year": "2025",
+      "num": "128",
+      "question": "A study of metastatic breast cancer patients found what pattern regarding brain metastases prevalence and lines of therapy?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prevalence remained constant"
+        },
+        {
+          "letter": "B",
+          "text": "Prevalence increased with each line of therapy"
+        },
+        {
+          "letter": "C",
+          "text": "Prevalence decreased in later lines"
+        },
+        {
+          "letter": "D",
+          "text": "Only HER2+ patients developed brain mets"
+        }
+      ],
+      "key": "B",
+      "rationale": "The prevalence of brain metastases increases with each line of therapy for metastatic breast cancer.",
+      "citations": "Sammons, J Natl Cancer Inst 2025"
+    },
+    {
+      "year": "2025",
+      "num": "129",
+      "question": "A study of grade 1 meningiomas proposed reclassifying tumors based on chromosomal alterations. Which alterations were associated with grade 2-like behavior?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loss of 1p"
+        },
+        {
+          "letter": "B",
+          "text": "Gain of 1q"
+        },
+        {
+          "letter": "C",
+          "text": "Both loss of 1p and gain of 1q"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "key": "A",
+      "rationale": "Grade 1 tumors with loss of chromosome 1p were on par with grade 2 tumors.",
+      "citations": "Landry, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "130",
+      "question": "A study of internal mammary node (IMN) recurrence in breast cancer found what factor associated with lower risk of recurrence?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chemotherapy"
+        },
+        {
+          "letter": "B",
+          "text": "Receipt of therapeutic IMN dose (>=40 Gy)"
+        },
+        {
+          "letter": "C",
+          "text": "Mastectomy"
+        },
+        {
+          "letter": "D",
+          "text": "Hormone therapy"
+        }
+      ],
+      "key": "B",
+      "rationale": "The receipt of therapeutic IMN dose was associated with a significantly lower risk of IMN recurrence.",
+      "citations": "Nichol, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "131",
+      "question": "A study of AI-derived risk scores (AIRIS) for cutaneous squamous cell carcinoma used what technique?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Retrieval augmented generation (RAG)"
+        },
+        {
+          "letter": "B",
+          "text": "Convolutional neural networks"
+        },
+        {
+          "letter": "C",
+          "text": "Random forest"
+        },
+        {
+          "letter": "D",
+          "text": "Logistic regression"
+        }
+      ],
+      "key": "A",
+      "rationale": "This study created a prognostic score... through a process called retrieval augmented generation (RAG) enabled generative pretrained transformer (GPT).",
+      "citations": "Jairoth, JAMA Dermatol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "132",
+      "question": "10-year results of the UK IMPORT LOW trial for partial breast irradiation showed what regarding ipsilateral recurrence?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Partial breast RT had significantly higher recurrence"
+        },
+        {
+          "letter": "B",
+          "text": "Partial breast RT recurrence rates were low and similar to whole breast RT (approx 3%)"
+        },
+        {
+          "letter": "C",
+          "text": "Whole breast RT had 0% recurrence"
+        },
+        {
+          "letter": "D",
+          "text": "Reduced dose whole breast RT failed"
+        }
+      ],
+      "key": "B",
+      "rationale": "At the 10 year landmark, the cumulative rates of ipsilateral breast tumor recurrence were 2.8% (whole breast), 1.9% (reduced dose), and 3.0% (partial breast).",
+      "citations": "Citation, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "133",
+      "question": "DESTINY-Breast09 evaluated first-line trastuzumab deruxtecan (T-DXd) + pertuzumab for metastatic HER2+ breast cancer. What was the PFS outcome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparable to THP"
+        },
+        {
+          "letter": "B",
+          "text": "Significantly improved (41 vs 27 months)"
+        },
+        {
+          "letter": "C",
+          "text": "Worse than THP"
+        },
+        {
+          "letter": "D",
+          "text": "T-DXd alone was superior to the combination"
+        }
+      ],
+      "key": "B",
+      "rationale": "T-DXd + pertuzumab delivered a median PFS of 41 months versus 27 months with THP.",
+      "citations": "Tolaney, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "134",
+      "question": "A Dutch study evaluated omission of completion axillary dissection in cN1 breast cancer patients with ypN0 after neoadjuvant therapy. What was the axillary recurrence rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%"
+        },
+        {
+          "letter": "B",
+          "text": "5%"
+        },
+        {
+          "letter": "C",
+          "text": "0.7%"
+        },
+        {
+          "letter": "D",
+          "text": "20%"
+        }
+      ],
+      "key": "C",
+      "rationale": "There was 1 (0.7%) axillary recurrence in the ypN0 cohort.",
+      "citations": "van Hemert, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "135",
+      "question": "MC1625 compared de-escalated adjuvant therapy (30 Gy + docetaxel) vs standard (60 Gy + cisplatin) for HPV+ oropharyngeal cancer. Which group had worse outcomes with de-escalation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All patients"
+        },
+        {
+          "letter": "B",
+          "text": "Patients with extranodal extension (ENE)"
+        },
+        {
+          "letter": "C",
+          "text": "Patients with T1-2 tumors"
+        },
+        {
+          "letter": "D",
+          "text": "Never smokers"
+        }
+      ],
+      "key": "B",
+      "rationale": "This difference seemed to be mostly in the cohort with extranodal extension with a 2 year PFS of 81.1% with de-escalation versus 97.4% with standard therapy.",
+      "citations": "Ma, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "136",
+      "question": "The DUART phase 2 trial evaluated durvalumab sequential to radiation for locally-advanced NSCLC ineligible for chemo. What was the grade 3+ toxicity rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%"
+        },
+        {
+          "letter": "B",
+          "text": "30%"
+        },
+        {
+          "letter": "C",
+          "text": "10%"
+        },
+        {
+          "letter": "D",
+          "text": "0%"
+        }
+      ],
+      "key": "C",
+      "rationale": "The rate of grade 3+ toxicity clocked in at 10%.",
+      "citations": "Filippi, ESMO 2025"
+    },
+    {
+      "year": "2024",
+      "num": "137",
+      "question": "A validation study of the POLAR genomic signature for breast cancer found what regarding adjuvant radiation benefit?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "RT benefited all patients equally"
+        },
+        {
+          "letter": "B",
+          "text": "RT reduced recurrence in high-risk patients but not low-risk"
+        },
+        {
+          "letter": "C",
+          "text": "RT was only beneficial in low-risk patients"
+        },
+        {
+          "letter": "D",
+          "text": "POLAR did not predict RT benefit"
+        }
+      ],
+      "key": "B",
+      "rationale": "Among low risk patients, there was no significant reduction... However, among high risk patients, adjuvant RT significantly reduced the risk.",
+      "citations": "Karlsson, J Natl Cancer Inst 2024"
+    },
+    {
+      "year": "2025",
+      "num": "138",
+      "question": "10-year results from PORTEC-3 showed adjuvant chemoradiation improved survival most in which molecular subgroup?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "POLEmut"
+        },
+        {
+          "letter": "B",
+          "text": "MMRd"
+        },
+        {
+          "letter": "C",
+          "text": "NSMP"
+        },
+        {
+          "letter": "D",
+          "text": "p53abn"
+        }
+      ],
+      "key": "D",
+      "rationale": "The latter group (p53abn) saw the most significant improvement in OS with the addition of chemotherapy (52.7% v 36.6%).",
+      "citations": "Post, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "139",
+      "question": "A trial of parotid-sparing whole brain radiation found what dosimetric reduction?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mean parotid dose reduced from 17 to 10 Gy"
+        },
+        {
+          "letter": "B",
+          "text": "No significant reduction"
+        },
+        {
+          "letter": "C",
+          "text": "Parotid dose increased"
+        },
+        {
+          "letter": "D",
+          "text": "Reduced only with IMRT"
+        }
+      ],
+      "key": "A",
+      "rationale": "Mean parotid dose was reduced from 17→ 10 Gy with reductions across all metrics.",
+      "citations": "Wang, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "140",
+      "question": "The HYDRA meta-analysis of hypofractionated prostate radiation found what difference between isodose and dose-escalated hypofractionation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dose-escalated had better disease control"
+        },
+        {
+          "letter": "B",
+          "text": "Dose-escalated had higher GI toxicity"
+        },
+        {
+          "letter": "C",
+          "text": "Isodose had fewer GU toxicities"
+        },
+        {
+          "letter": "D",
+          "text": "No differences in toxicity or control"
+        }
+      ],
+      "key": "B",
+      "rationale": "They found a significant difference was increased rates of grade 2+ GI toxicity and decrements in bowel quality-of-life for dose-escalated HF.",
+      "citations": "Kishan, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "141",
+      "question": "A study of post-radiation PSMA PET uptake found the optimal time to predict complete response was:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 months"
+        },
+        {
+          "letter": "B",
+          "text": "6 months"
+        },
+        {
+          "letter": "C",
+          "text": "8.6 months"
+        },
+        {
+          "letter": "D",
+          "text": "12 months"
+        }
+      ],
+      "key": "C",
+      "rationale": "Using receiver-operator curve analysis, the optimal time to predict complete response on PSMA PET was 8.6 months.",
+      "citations": "Hotta, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "142",
+      "question": "A randomized trial comparing fluciclovine and PSMA PET for salvage prostate radiation found:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fluciclovine detected more prostate fossa recurrences"
+        },
+        {
+          "letter": "B",
+          "text": "PSMA detected more fossa recurrences"
+        },
+        {
+          "letter": "C",
+          "text": "Both were equivalent"
+        },
+        {
+          "letter": "D",
+          "text": "PSMA had higher toxicity"
+        }
+      ],
+      "key": "A",
+      "rationale": "Gross disease was able to be boosted in 83% of fluciclovine-guided and 53% of PSMA-guided radiation plans, suggesting higher sensitivity of fluciclovine for fossa recurrences.",
+      "citations": "Dhere, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "143",
+      "question": "A trial comparing FET-PET vs MRI for glioblastoma reirradiation target delineation found:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "FET-PET improved PFS"
+        },
+        {
+          "letter": "B",
+          "text": "FET-PET did not improve PFS"
+        },
+        {
+          "letter": "C",
+          "text": "FET-PET volumes were smaller"
+        },
+        {
+          "letter": "D",
+          "text": "MRI missed most tumors"
+        }
+      ],
+      "key": "B",
+      "rationale": "The use of FET-PET did not significantly increase median PFS (4 v 4.9 months).",
+      "citations": "Grosu, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "144",
+      "question": "A phase 2 trial added atezolizumab and tiragolumab to neoadjuvant chemoradiation for rectal cancer. What was the pCR rate compared to atezolizumab alone?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significantly higher (35.7% vs 22.2%)"
+        },
+        {
+          "letter": "B",
+          "text": "No difference"
+        },
+        {
+          "letter": "C",
+          "text": "Lower with the combination"
+        },
+        {
+          "letter": "D",
+          "text": "Both were inferior to historical control"
+        }
+      ],
+      "key": "A",
+      "rationale": "The pCR rate with atezo + tira was significantly higher than historical control (35.7% v 15%) whereas the pCR rate with atezo alone was not.",
+      "citations": "Tang, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "145",
+      "question": "A meta-analysis of deferred systemic therapy for metastatic renal cell carcinoma (RCC) found a 1-year systemic therapy-free survival of:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20%"
+        },
+        {
+          "letter": "B",
+          "text": "50%"
+        },
+        {
+          "letter": "C",
+          "text": "74%"
+        },
+        {
+          "letter": "D",
+          "text": "90%"
+        }
+      ],
+      "key": "C",
+      "rationale": "Systemic therapy–free survival was 74% at 1 year.",
+      "citations": "Tsuboi, Urol Oncol 2025"
+    },
+    {
+      "year": "2026",
+      "num": "146",
+      "question": "9-year results from CheckMate 238 comparing adjuvant nivolumab vs ipilimumab for melanoma found:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nivolumab improved overall survival"
+        },
+        {
+          "letter": "B",
+          "text": "Nivolumab improved recurrence-free survival but not overall survival"
+        },
+        {
+          "letter": "C",
+          "text": "Ipilimumab was superior"
+        },
+        {
+          "letter": "D",
+          "text": "No difference in any outcome"
+        }
+      ],
+      "key": "B",
+      "rationale": "Median recurrence-free survival remained substantially longer with nivolumab... Ultimately, there was no significant difference in the rate of melanoma death.",
+      "citations": "Ascierto, N Engl J Med 2026"
+    },
+    {
+      "year": "2026",
+      "num": "147",
+      "question": "The SPARC phase 2 trial evaluated focal simultaneous integrated boost (SIB) during prostate SBRT. What was the finding regarding GU toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No increase in toxicity"
+        },
+        {
+          "letter": "B",
+          "text": "Grade 2+ GU toxicity was 35% at 2 years"
+        },
+        {
+          "letter": "C",
+          "text": "Grade 3+ GU toxicity was >20%"
+        },
+        {
+          "letter": "D",
+          "text": "Toxicity was lower than standard SBRT"
+        }
+      ],
+      "key": "B",
+      "rationale": "At 2 years, the cumulative rate of grade 2+ GU adverse events was 35%... In PACE-B, the rate... was 18.3%.",
+      "citations": "Yasar, Int J Radiat Oncol Biol Phys 2026"
+    },
+    {
+      "year": "2025",
+      "num": "148",
+      "question": "Secondary analysis of the ENZA-p trial found what PSMA PET parameter predicted benefit from adding 177Lu-PSMA to enzalutamide?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "SUVmean"
+        },
+        {
+          "letter": "B",
+          "text": "High total tumor volume"
+        },
+        {
+          "letter": "C",
+          "text": "SUVmax"
+        },
+        {
+          "letter": "D",
+          "text": "Low tumor volume"
+        }
+      ],
+      "key": "B",
+      "rationale": "High TTV was... predictive of benefit from the addition of Pluvicto.",
+      "citations": "Emmett, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "149",
+      "question": "A substudy of RTOG 1016 comparing cisplatin vs cetuximab with radiation for HPV+ oropharyngeal cancer found what regarding hearing loss?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference"
+        },
+        {
+          "letter": "B",
+          "text": "Cisplatin caused significantly worse hearing loss"
+        },
+        {
+          "letter": "C",
+          "text": "Cetuximab caused worse hearing loss"
+        },
+        {
+          "letter": "D",
+          "text": "Hearing loss recovered in both arms"
+        }
+      ],
+      "key": "B",
+      "rationale": "Patient-reported hearing loss was significantly worse following cisplatin versus cetuximab.",
+      "citations": "Runge, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "150",
+      "question": "A study of elective pelvic nodal involvement in bladder cancer found that for T2-T3 high grade disease, 95% of nodal metastases were located where?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Below the aortic bifurcation"
+        },
+        {
+          "letter": "B",
+          "text": "Below the iliac bifurcation"
+        },
+        {
+          "letter": "C",
+          "text": "In the presacral space"
+        },
+        {
+          "letter": "D",
+          "text": "In the inguinal region"
+        }
+      ],
+      "key": "B",
+      "rationale": "Nearly all nodal disease (≥95%) in T2–T3 G3 patients remained below the iliac bifurcation.",
+      "citations": "Cheng, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "151",
+      "question": "A retrospective study evaluated low-dose radiotherapy (LDRT) for hip arthrosis and greater trochanteric pain syndrome (GTPS). What factors were negatively associated with response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prior steroid injections"
+        },
+        {
+          "letter": "B",
+          "text": "Older age and higher BMI"
+        },
+        {
+          "letter": "C",
+          "text": "Use of 0.5 Gy per fraction"
+        },
+        {
+          "letter": "D",
+          "text": "Bilateral treatment"
+        }
+      ],
+      "key": "B",
+      "rationale": "Older age and higher BMI were negatively associated with response rates (58% for hip arthrosis and 64% for GTPS).",
+      "citations": "Klepzig, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "152",
+      "question": "A secondary analysis of three NRG/RTOG trials evaluated treatment interruptions in head and neck radiation. For which group was the absolute reduction in disease control highest after a break?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Early stage HPV+ disease"
+        },
+        {
+          "letter": "B",
+          "text": "Advanced-stage HPV-negative disease"
+        },
+        {
+          "letter": "C",
+          "text": "Nasopharyngeal carcinoma"
+        },
+        {
+          "letter": "D",
+          "text": "Laryngeal cancer"
+        }
+      ],
+      "key": "B",
+      "rationale": "The stakes are highest for advanced-stage HPV-negative disease which saw a >10% absolute reduction in disease control after a treatment interruption.",
+      "citations": "Gharzai, JAMA Otolaryngol Head Neck Surg 2025"
+    },
+    {
+      "year": "2025",
+      "num": "153",
+      "question": "A pooled analysis of two prospective cohorts compared robotic-assisted versus conventional laparoscopic surgery. What factor mediated the increased risk of postoperative pulmonary complications in the robotic group?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ventilation intensity"
+        },
+        {
+          "letter": "B",
+          "text": "Duration of mechanical ventilation"
+        },
+        {
+          "letter": "C",
+          "text": "Pneumoperitoneum pressure"
+        },
+        {
+          "letter": "D",
+          "text": "Patient BMI"
+        }
+      ],
+      "key": "B",
+      "rationale": "Multivariable modeling pointed towards a clear culprit: duration of mechanical ventilation, full stop. Patients undergoing robotic cases had over double the ventilation time.",
+      "citations": "Serafini, JAMA Surg 2025"
+    },
+    {
+      "year": "2025",
+      "num": "154",
+      "question": "An ESMO-ESTRO consensus statement on combining radiation with targeted therapies recommends what regarding VEGF inhibitors and multi-target TKIs?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No adaptation is necessary"
+        },
+        {
+          "letter": "B",
+          "text": "Major adaptation is recommended across most sites"
+        },
+        {
+          "letter": "C",
+          "text": "They are safe for ultracentral thoracic targets"
+        },
+        {
+          "letter": "D",
+          "text": "They act as radioprotectors"
+        }
+      ],
+      "key": "B",
+      "rationale": "It was not so for the VEGF inhibitors and TKIs with major adaptation recommended across most sites. It was also recommended to not combine RT and VEGF inhibitors or TKIs for ultracentral targets.",
+      "citations": "van Aken, Ann Oncol 2025"
+    },
+    {
+      "year": "2026",
+      "num": "155",
+      "question": "A phase 3 trial compared neoadjuvant chemoradiation vs upfront surgery for locally-advanced esophageal squamous cell carcinoma. Despite a 29% pCR rate with chemoradiation, what was the 5-year overall survival result?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chemoradiation was superior (70% vs 50%)"
+        },
+        {
+          "letter": "B",
+          "text": "Survival was essentially identical (59% vs 60%)"
+        },
+        {
+          "letter": "C",
+          "text": "Upfront surgery was superior"
+        },
+        {
+          "letter": "D",
+          "text": "Chemoradiation improved survival only in node negative patients"
+        }
+      ],
+      "key": "B",
+      "rationale": "Overall survival at 5 years was essentially identical—59% with NCRT versus 60% with upfront surgery.",
+      "citations": "He, JAMA Netw Open 2026"
+    },
+    {
+      "year": "2026",
+      "num": "156",
+      "question": "A retrospective study of SBRT for HNSCC lung metastases found what 3-fraction equivalent dose was required to achieve >95% local control at 2 years?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 Gy"
+        },
+        {
+          "letter": "B",
+          "text": "38 Gy"
+        },
+        {
+          "letter": "C",
+          "text": "42 Gy"
+        },
+        {
+          "letter": "D",
+          "text": "50 Gy"
+        }
+      ],
+      "key": "D",
+      "rationale": "A 3 fraction equivalent dose of 50 Gy had >95% local control at 2 years.",
+      "citations": "Ehret, Radiother Oncol 2026"
+    },
+    {
+      "year": "2026",
+      "num": "157",
+      "question": "A study described the creation of a low-cost, 3D-printed electron multileaf collimator (eMLC). How did it compare to Cerrobend?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It had significant leakage"
+        },
+        {
+          "letter": "B",
+          "text": "It produced sharper field edges than Cerrobend"
+        },
+        {
+          "letter": "C",
+          "text": "It could not block electrons above 6 MeV"
+        },
+        {
+          "letter": "D",
+          "text": "It was single-use only"
+        }
+      ],
+      "key": "B",
+      "rationale": "The device effectively blocked electron beams up to 15 MeV, showed no measurable leakage, and produced even sharper field edges than Cerrobend.",
+      "citations": "Farris, Pract Radiat Oncol 2026"
+    },
+    {
+      "year": "2025",
+      "num": "158",
+      "question": "The MATTERHORN trial randomized patients with resectable gastric/EG junction adenocarcinoma to perioperative FLOT with or without durvalumab. What was the impact on event-free survival (EFS)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No improvement in EFS"
+        },
+        {
+          "letter": "B",
+          "text": "Significant improvement in 2-year EFS (67.4% vs 58.5%)"
+        },
+        {
+          "letter": "C",
+          "text": "Worse EFS with durvalumab"
+        },
+        {
+          "letter": "D",
+          "text": "EFS benefit limited to PD-L1 high patients"
+        }
+      ],
+      "key": "B",
+      "rationale": "The addition of durvalumab significantly improved 2 year EFS from 67.4% v 58.5%.",
+      "citations": "Janjigian, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "159",
+      "question": "A randomized trial tested the traditional Chinese medicine Biyan Qingdu Granula (BQG) during nasopharyngeal carcinoma radiation. What specific toxicity was reduced?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dermatitis"
+        },
+        {
+          "letter": "B",
+          "text": "Severe nasopharyngeal secretions and oral mucositis"
+        },
+        {
+          "letter": "C",
+          "text": "Xerostomia"
+        },
+        {
+          "letter": "D",
+          "text": "Hematologic toxicity"
+        }
+      ],
+      "key": "B",
+      "rationale": "BQG was associated with a significantly lower rate of severe nasopharyngeal secretions (12.4% v 20%) and grade 3+ oral mucositis (12.3% v 22.4%).",
+      "citations": "Liu, ASCO 2025"
+    },
+    {
+      "year": "2024",
+      "num": "160",
+      "question": "RTOG 1112 randomized patients with advanced HCC to sorafenib alone or SBRT followed by sorafenib. What was the impact on progression-free survival (PFS)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No difference"
+        },
+        {
+          "letter": "B",
+          "text": "Significant improvement from 5.5 to 9.0 months"
+        },
+        {
+          "letter": "C",
+          "text": "Worse PFS with SBRT"
+        },
+        {
+          "letter": "D",
+          "text": "Benefit only in patients with portal vein thrombosis"
+        }
+      ],
+      "key": "B",
+      "rationale": "PFS was significantly prolonged with SBRT from 5.5 to 9.0 months.",
+      "citations": "Dawson, JAMA Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "161",
+      "question": "A trial emulation compared APBI modalities for early-stage breast cancer. Which modality had a significantly higher risk of recurrence for tumors >1cm?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Photon therapy"
+        },
+        {
+          "letter": "B",
+          "text": "Proton therapy"
+        },
+        {
+          "letter": "C",
+          "text": "Applicator-based brachytherapy"
+        },
+        {
+          "letter": "D",
+          "text": "Intraoperative radiation"
+        }
+      ],
+      "key": "C",
+      "rationale": "Differences were most prominent among those with tumors >1cm where recurrence risk with significantly higher with brachytherapy than with photon therapy (HR 7.64).",
+      "citations": "Shumway, J Natl Cancer Inst 2025"
+    },
+    {
+      "year": "2025",
+      "num": "162",
+      "question": "A review of aspirin's anticancer mechanism highlights its inhibition of platelet COX-1. How does this affect T cells?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It increases PD-L1 expression"
+        },
+        {
+          "letter": "B",
+          "text": "It restores T cell-mediated micrometastasis elimination by reducing thromboxane A2"
+        },
+        {
+          "letter": "C",
+          "text": "It causes T cell exhaustion"
+        },
+        {
+          "letter": "D",
+          "text": "It has no effect on T cells"
+        }
+      ],
+      "key": "B",
+      "rationale": "Aspirin’s blunting of TXA2 restores T cell-mediated micrometastasis elimination.",
+      "citations": "Langley, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "163",
+      "question": "Updated ASTRO guidelines for glioblastoma recommend what regarding target margins?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5mm margin is sufficient"
+        },
+        {
+          "letter": "B",
+          "text": "Standard 1-2 cm clinical target margins"
+        },
+        {
+          "letter": "C",
+          "text": "Whole brain radiation"
+        },
+        {
+          "letter": "D",
+          "text": "No margin on enhancing tumor"
+        }
+      ],
+      "key": "B",
+      "rationale": "Table 5 summarizes target volumes including recommendations for the notorious 1-2 cm clinical target margins.",
+      "citations": "Yeboa, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "164",
+      "question": "A prospective trial of prophylactic contralateral breast irradiation in BRCA carriers found what impact on median time to contralateral cancer?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No delay"
+        },
+        {
+          "letter": "B",
+          "text": "Significantly delayed (90 vs 40 months)"
+        },
+        {
+          "letter": "C",
+          "text": "Accelerated time to cancer"
+        },
+        {
+          "letter": "D",
+          "text": "Prevented all contralateral cancers"
+        }
+      ],
+      "key": "B",
+      "rationale": "The median time to development of a contralateral breast cancer was significantly longer after prophylactic RT (90 v 40 months).",
+      "citations": "Evron, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "165",
+      "question": "A meta-analysis of local therapy for oligometastases found significant benefits for which primary tumor types?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prostate and non-small cell lung cancer"
+        },
+        {
+          "letter": "B",
+          "text": "Breast and colorectal cancer"
+        },
+        {
+          "letter": "C",
+          "text": "Melanoma and renal cell carcinoma"
+        },
+        {
+          "letter": "D",
+          "text": "All solid tumors equally"
+        }
+      ],
+      "key": "A",
+      "rationale": "Subgroup analyses demonstrated consistent significant benefits for prostate and non-small lung cancers but not breast cancers.",
+      "citations": "Berner-Wygoda, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "166",
+      "question": "In the PEACE-3 trial, what was the impact of mandated bone protecting agents (BPAs) on fracture risk in the radium-223 + enzalutamide arm?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No reduction in fractures"
+        },
+        {
+          "letter": "B",
+          "text": "Reduced fracture rate from 53.6% to 14.2%"
+        },
+        {
+          "letter": "C",
+          "text": "Increased fracture rate"
+        },
+        {
+          "letter": "D",
+          "text": "Fractures were eliminated"
+        }
+      ],
+      "key": "B",
+      "rationale": "There were higher rates of fracture in both arms until BPAs were mandated–dropping... from 53.6% → 14.2% in the enzalutamide plus radium-223 arm.",
+      "citations": "Gillenssen, Eur Urol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "167",
+      "question": "A review of pancreas cancer contouring recommends coverage of which elective pathways to improve locoregional control?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para-aortic nodes only"
+        },
+        {
+          "letter": "B",
+          "text": "Extra-pancreatic perineural pathways (celiac, SMA plexi)"
+        },
+        {
+          "letter": "C",
+          "text": "Common hepatic nodes only"
+        },
+        {
+          "letter": "D",
+          "text": "Whole pancreas"
+        }
+      ],
+      "key": "B",
+      "rationale": "Anatomically-informed elective coverage of perineural pathways (celiac, SMA, CHA plexi, etc.) could prove the key to improving locoregional control.",
+      "citations": "Narang, Semin Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "168",
+      "question": "A randomized phase 2 trial used PSMA-PET to guide salvage radiation. What dose was used for PSMA-avid nodes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 Gy"
+        },
+        {
+          "letter": "B",
+          "text": "66 Gy EQD2"
+        },
+        {
+          "letter": "C",
+          "text": "77 Gy EQD2"
+        },
+        {
+          "letter": "D",
+          "text": "50 Gy"
+        }
+      ],
+      "key": "B",
+      "rationale": "PSMA-avid sites of disease could receive an EQD2 of 66 Gy to nodes and 77 Gy to the prostate fossa.",
+      "citations": "Balliveau, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "169",
+      "question": "In the E3311 trial, omitting adjuvant radiation (Arm A) for p16+ oropharyngeal cancer resulted in 0% recurrence for N0 patients. What was the recurrence rate for N1 patients in this arm?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0%"
+        },
+        {
+          "letter": "B",
+          "text": "5%"
+        },
+        {
+          "letter": "C",
+          "text": "14.8%"
+        },
+        {
+          "letter": "D",
+          "text": "30%"
+        }
+      ],
+      "key": "C",
+      "rationale": "Within Arm A, 0% of N0 patients recurred compared to 14.8% of N1 patients.",
+      "citations": "Burtness, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "170",
+      "question": "The SANO trial compared active surveillance to surgery for esophageal cancer complete responders. What was the rate of distant metastasis at 30 months in the surveillance arm?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%"
+        },
+        {
+          "letter": "B",
+          "text": "25%"
+        },
+        {
+          "letter": "C",
+          "text": "43%"
+        },
+        {
+          "letter": "D",
+          "text": "60%"
+        }
+      ],
+      "key": "C",
+      "rationale": "The rate of distant metastasis at 30 months was 43% with surveillance and 34% with surgery.",
+      "citations": "van der Wilk, Lancet Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "171",
+      "question": "A prospective trial treated tumors involving the heart with MR-guided RT. What was the objective response rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20%"
+        },
+        {
+          "letter": "B",
+          "text": "50%"
+        },
+        {
+          "letter": "C",
+          "text": "85.7%"
+        },
+        {
+          "letter": "D",
+          "text": "100%"
+        }
+      ],
+      "key": "C",
+      "rationale": "The objective response rate was 85.7%.",
+      "citations": "Zheng, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2024",
+      "num": "172",
+      "question": "Updated ASTRO guidelines for rectal cancer recommend what surveillance schedule for patients undergoing non-operative management?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Annual colonoscopy"
+        },
+        {
+          "letter": "B",
+          "text": "Proctoscopy and MRI every 3-4 months for 2 years"
+        },
+        {
+          "letter": "C",
+          "text": "MRI only every 6 months"
+        },
+        {
+          "letter": "D",
+          "text": "CEA monitoring only"
+        }
+      ],
+      "key": "B",
+      "rationale": "Surveillance includes proctoscopy/sigmoidoscopy with digital rectal exam every 3-4 months for the first 2 years... AND pelvic MRI... every 3-6 months for the first 2 years.",
+      "citations": "Wo, Pract Radiat Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "173",
+      "question": "A study of rectal cancer tumor boost dose found that boosting to 56-60 Gy (vs 50 Gy) significantly improved pCR rates. Which subgroup benefited most?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cT1-2 tumors"
+        },
+        {
+          "letter": "B",
+          "text": "cT3-4 tumors"
+        },
+        {
+          "letter": "C",
+          "text": "Node negative tumors"
+        },
+        {
+          "letter": "D",
+          "text": "Low rectal tumors"
+        }
+      ],
+      "key": "B",
+      "rationale": "Subset analyses indicate cT3-4 tumors uniquely benefit from additional boost doses.",
+      "citations": "Nicosia, Radiother Oncol 2025"
+    },
+    {
+      "year": "2026",
+      "num": "174",
+      "question": "In a randomized trial of oxybutynin for hot flashes in men on ADT, what was the safety profile?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "High rate of grade 3 anticholinergic effects"
+        },
+        {
+          "letter": "B",
+          "text": "No grade 3+ adverse events"
+        },
+        {
+          "letter": "C",
+          "text": "Increased risk of falls"
+        },
+        {
+          "letter": "D",
+          "text": "Cognitive decline in 20%"
+        }
+      ],
+      "key": "B",
+      "rationale": "Furthermore, oxybutynin resulted in no grade 3+ adverse events.",
+      "citations": "Stish, J Clin Oncol 2026"
+    },
+    {
+      "year": "2025",
+      "num": "175",
+      "question": "The MARIPOSA trial compared amivantamab plus lazertinib vs osimertinib. What was the 3-year overall survival for the combination?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40%"
+        },
+        {
+          "letter": "B",
+          "text": "51%"
+        },
+        {
+          "letter": "C",
+          "text": "60%"
+        },
+        {
+          "letter": "D",
+          "text": "80%"
+        }
+      ],
+      "key": "C",
+      "rationale": "Three-year overall survival was 60% vs 51%, respectively.",
+      "citations": "Yang, N Engl J Med 2025"
+    },
+    {
+      "year": "2025",
+      "num": "176",
+      "question": "A retrospective study of spine SBRT for prostate cancer compared different target volumes. What BED10 was associated with superior control?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "≥30 Gy"
+        },
+        {
+          "letter": "B",
+          "text": "≥48 Gy"
+        },
+        {
+          "letter": "C",
+          "text": "≥61 Gy"
+        },
+        {
+          "letter": "D",
+          "text": "≥100 Gy"
+        }
+      ],
+      "key": "C",
+      "rationale": "A BED4 ≥100 Gy and BED10 ≥61 Gy were also associated with superior control.",
+      "citations": "Seiler, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "177",
+      "question": "A study of retroperitoneal radiation found bowel toxicity risk increased when V45 exceeded what threshold?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100cc"
+        },
+        {
+          "letter": "B",
+          "text": "195cc"
+        },
+        {
+          "letter": "C",
+          "text": "500cc"
+        },
+        {
+          "letter": "D",
+          "text": "Risk was independent of V45"
+        }
+      ],
+      "key": "B",
+      "rationale": "Exceeding bowel V45 >195cc was still associated with an increased risk of toxicity.",
+      "citations": "Yoder, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "178",
+      "question": "The DIPPER trial added adjuvant camrelizumab to chemoradiation for high-risk NPC. What toxicity was notably associated with camrelizumab?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pneumonitis"
+        },
+        {
+          "letter": "B",
+          "text": "Reactive capillary endothelial proliferation"
+        },
+        {
+          "letter": "C",
+          "text": "Colitis"
+        },
+        {
+          "letter": "D",
+          "text": "Nephritis"
+        }
+      ],
+      "key": "B",
+      "rationale": "The most common toxicity noted with camrelizumab was something called “reactive capillary endothelial proliferation,” basically a rash of sorts.",
+      "citations": "Liang, JAMA 2025"
+    },
+    {
+      "year": "2025",
+      "num": "179",
+      "question": "A study of LINAC energy consumption found which state consumed the most power?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stand-by mode"
+        },
+        {
+          "letter": "B",
+          "text": "QA"
+        },
+        {
+          "letter": "C",
+          "text": "Treatment delivery"
+        },
+        {
+          "letter": "D",
+          "text": "Imaging"
+        }
+      ],
+      "key": "C",
+      "rationale": "Energy consumption was less during QA and stand-by mode, but most notably less during treatment delivery [referring to Halcyon vs C-arm difference].",
+      "citations": "Gupta, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "180",
+      "question": "The RAVENS trial added Radium-223 to SBRT for oligometastatic prostate cancer. What was the rate of grade 3+ toxicity in the combination arm?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5%"
+        },
+        {
+          "letter": "B",
+          "text": "17%"
+        },
+        {
+          "letter": "C",
+          "text": "30%"
+        },
+        {
+          "letter": "D",
+          "text": "50%"
+        }
+      ],
+      "key": "B",
+      "rationale": "Radium-223 was associated with a higher rate of grade 3+ treatment related toxicity (17% v 6%).",
+      "citations": "Wang, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "181",
+      "question": "A study using deep learning for p16+ oropharyngeal cancer risk stratification found that high-risk patients (per imaging risk score) benefited from what treatment modification?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dose escalation"
+        },
+        {
+          "letter": "B",
+          "text": "Receipt of concurrent chemotherapy"
+        },
+        {
+          "letter": "C",
+          "text": "Induction chemotherapy"
+        },
+        {
+          "letter": "D",
+          "text": "Adjuvant immunotherapy"
+        }
+      ],
+      "key": "B",
+      "rationale": "Receipt of concurrent chemo significantly improved disease-free survival for the high-risk cohort with no discernible benefit seen in the low-risk cohort.",
+      "citations": "Song, JAMA Netw Open 2025"
+    },
+    {
+      "year": "2025",
+      "num": "182",
+      "question": "A Swedish registry study of cT1-2 oropharyngeal cancer found concurrent cisplatin benefited which subgroup?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All patients"
+        },
+        {
+          "letter": "B",
+          "text": "Patients <70 with cT2+ primary and multiple ipsilateral nodes"
+        },
+        {
+          "letter": "C",
+          "text": "Patients >70 with single nodes"
+        },
+        {
+          "letter": "D",
+          "text": "T1N1 patients"
+        }
+      ],
+      "key": "B",
+      "rationale": "The only significant advantage of any kind was for patients younger than 70 with multiple ipsilateral nodes... specifically with cT2N2b disease.",
+      "citations": "Adrian, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "183",
+      "question": "A randomized trial compared preoperative vs postoperative SRS for brain metastases. What was the rate of nodular leptomeningeal disease in the preoperative arm?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.7%"
+        },
+        {
+          "letter": "B",
+          "text": "4.7%"
+        },
+        {
+          "letter": "C",
+          "text": "10%"
+        },
+        {
+          "letter": "D",
+          "text": "20%"
+        }
+      ],
+      "key": "A",
+      "rationale": "The rate of nodular leptomeningeal disease was 1.7% with preop and 4.7% with postop fSRS.",
+      "citations": "Perlow, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "184",
+      "question": "A retrospective study of reirradiation for locoregionally recurrent NSCLC found what 2-year overall survival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%"
+        },
+        {
+          "letter": "B",
+          "text": "37.8%"
+        },
+        {
+          "letter": "C",
+          "text": "50%"
+        },
+        {
+          "letter": "D",
+          "text": "75%"
+        }
+      ],
+      "key": "B",
+      "rationale": "OS at 2 years was 37.8%.",
+      "citations": "Rochetti, Radiother Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "185",
+      "question": "A study of prophylactic magnesium infusions during cisplatin therapy found what impact on acute kidney injury (AKI)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No effect"
+        },
+        {
+          "letter": "B",
+          "text": "Halved the rate of AKI (2.7% vs 5.3%)"
+        },
+        {
+          "letter": "C",
+          "text": "Doubled the rate of AKI"
+        },
+        {
+          "letter": "D",
+          "text": "Increased magnesium toxicity"
+        }
+      ],
+      "key": "B",
+      "rationale": "Rates of subsequent AKI were halved in the magnesium cohort (2.7%) versus others (5.3%).",
+      "citations": "Gupta, JAMA Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "186",
+      "question": "A study of flattening filter-free (FFF) vs flattened beams for lung SBRT found what regarding treatment delivery?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Slower delivery time"
+        },
+        {
+          "letter": "B",
+          "text": "2.3x faster delivery with no detriment to outcomes"
+        },
+        {
+          "letter": "C",
+          "text": "Worse toxicity profile"
+        },
+        {
+          "letter": "D",
+          "text": "Inferior local control"
+        }
+      ],
+      "key": "B",
+      "rationale": "Delivering treatments 2.3x faster... with no detriment to excellent rates of long term efficacy and toxicity.",
+      "citations": "Preault, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2024",
+      "num": "187",
+      "question": "The COMET trial compared active surveillance vs standard care for low-risk DCIS. What was the 2-year invasive cancer detection rate in the surgery group?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0%"
+        },
+        {
+          "letter": "B",
+          "text": "1.2%"
+        },
+        {
+          "letter": "C",
+          "text": "5.9%"
+        },
+        {
+          "letter": "D",
+          "text": "10%"
+        }
+      ],
+      "key": "C",
+      "rationale": "The primary endpoint of detection of ipsilateral invasive cancer within two years was 5.9% in the surgery group versus 4.2% in the active surveillance group.",
+      "citations": "Hwang, JAMA 2024"
+    },
+    {
+      "year": "2025",
+      "num": "188",
+      "question": "A study of post-radiation PSMA PET uptake found what optimal timing to predict complete response?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 month"
+        },
+        {
+          "letter": "B",
+          "text": "3 months"
+        },
+        {
+          "letter": "C",
+          "text": "8.6 months"
+        },
+        {
+          "letter": "D",
+          "text": "24 months"
+        }
+      ],
+      "key": "C",
+      "rationale": "The optimal time to predict complete response on PSMA PET was 8.6 months.",
+      "citations": "Onal, Int J Radiat Oncol Biol Phys 2025"
+    },
+    {
+      "year": "2025",
+      "num": "189",
+      "question": "A randomized trial evaluated palliative radiation +/- RFA/PVA for painful spine metastases. What was the complete pain response rate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50% in both arms"
+        },
+        {
+          "letter": "B",
+          "text": "No difference (~20%)"
+        },
+        {
+          "letter": "C",
+          "text": "Significantly higher with RFA"
+        },
+        {
+          "letter": "D",
+          "text": "Significantly higher with RT alone"
+        }
+      ],
+      "key": "B",
+      "rationale": "There was also no difference in the rate of complete pain control (21% v 17%).",
+      "citations": "Kotecha, Neuro Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "190",
+      "question": "A meta-analysis of SRS margins for brain metastases found what regarding local control at 1 year?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Significantly better with margin (95% vs 80%)"
+        },
+        {
+          "letter": "B",
+          "text": "No significant difference (88.4% vs 83%)"
+        },
+        {
+          "letter": "C",
+          "text": "Better without margin"
+        },
+        {
+          "letter": "D",
+          "text": "Dependant on dose only"
+        }
+      ],
+      "key": "B",
+      "rationale": "There was no significant difference in local control at 1 year with or without a margin (88.4% v 83%).",
+      "citations": "Singh, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "191",
+      "question": "The MANTLE trial evaluated manual therapy for late dysphagia after H&N radiation. What were the results regarding range of motion?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No improvement"
+        },
+        {
+          "letter": "B",
+          "text": "Large improvements in cervical and interincisal range of motion"
+        },
+        {
+          "letter": "C",
+          "text": "Worsened symptoms"
+        },
+        {
+          "letter": "D",
+          "text": "Improvement only in lymphedema"
+        }
+      ],
+      "key": "B",
+      "rationale": "Large improvements were seen across the board in both objective endpoints of cervical and interincisal range of motion.",
+      "citations": "McMillan, JAMA Otolaryngol Head Neck Surg 2025"
+    },
+    {
+      "year": "2025",
+      "num": "192",
+      "question": "A prospective study of palliative radiation given within a month of immunotherapy found what rate of grade 3+ toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0%"
+        },
+        {
+          "letter": "B",
+          "text": "10%"
+        },
+        {
+          "letter": "C",
+          "text": "25%"
+        },
+        {
+          "letter": "D",
+          "text": "50%"
+        }
+      ],
+      "key": "A",
+      "rationale": "Measured no associated grade 3+ toxicity.",
+      "citations": "Harris, Adv Radiat Oncol 2025"
+    },
+    {
+      "year": "2026",
+      "num": "193",
+      "question": "IROCK consensus guidelines for renal cell carcinoma SABR recommend contouring the ipsilateral renal cortex how?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entire kidney minus GTV"
+        },
+        {
+          "letter": "B",
+          "text": "Renal parenchyma minus target, renal pelvis, vasculature, and proximal ureter"
+        },
+        {
+          "letter": "C",
+          "text": "A 5mm rind around the kidney"
+        },
+        {
+          "letter": "D",
+          "text": "Not necessary to contour"
+        }
+      ],
+      "key": "B",
+      "rationale": "The ipsilateral renal cortex should be contoured as renal parenchyma minus target, renal pelvis, vasculature, and proximal ureter.",
+      "citations": "Dhar, Int J Radiat Oncol Biol Phys 2026"
+    },
+    {
+      "year": "2026",
+      "num": "194",
+      "question": "Analysis of the HILUS trial for ultracentral lung SBRT found what risk of grade 5 hemorrhage at a bronchial D0.31cc of 165 Gy EQD2(3)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5%"
+        },
+        {
+          "letter": "B",
+          "text": "10%"
+        },
+        {
+          "letter": "C",
+          "text": "20%"
+        },
+        {
+          "letter": "D",
+          "text": "50%"
+        }
+      ],
+      "key": "C",
+      "rationale": "The risk of grade 5 hemorrhage was... 20% at 165 Gy.",
+      "citations": "Karlsson, Int J Radiat Oncol Biol Phys 2026"
+    },
+    {
+      "year": "2025",
+      "num": "195",
+      "question": "The PACIFIC-2 trial evaluated concurrent durvalumab with chemoradiation for stage III NSCLC. What was the median PFS?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.4 months"
+        },
+        {
+          "letter": "B",
+          "text": "13.8 months (not significantly better than control)"
+        },
+        {
+          "letter": "C",
+          "text": "16.8 months"
+        },
+        {
+          "letter": "D",
+          "text": "24 months"
+        }
+      ],
+      "key": "B",
+      "rationale": "Adding durvalumab at day 1 did not significantly improve the primary endpoint of PFS with a median PFS of 13.8 v 9.4 months.",
+      "citations": "Bradley, J Clin Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "196",
+      "question": "Updated guidelines for postmastectomy radiation therapy (PMRT) recommend bolus in what scenarios?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "All patients"
+        },
+        {
+          "letter": "B",
+          "text": "Only for skin involvement, positive superficial margins, or lymphovascular invasion"
+        },
+        {
+          "letter": "C",
+          "text": "Inflammatory breast cancer only"
+        },
+        {
+          "letter": "D",
+          "text": "Never"
+        }
+      ],
+      "key": "B",
+      "rationale": "Bolus is recommended only for skin involvement, positive superficial margins, or lymphovascular invasion.",
+      "citations": "Jimenez, Pract Radiat Oncol 2025"
+    },
+    {
+      "year": "2025",
+      "num": "197",
+      "question": "ESTRO guidelines for CTV delineation in post-op oral cavity cancer recommend what margin for positive nodes without ENE?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 mm"
+        },
+        {
+          "letter": "B",
+          "text": "5 mm"
+        },
+        {
+          "letter": "C",
+          "text": "10 mm"
+        },
+        {
+          "letter": "D",
+          "text": "15 mm"
+        }
+      ],
+      "key": "B",
+      "rationale": "They recommend... a 5 mm margin for positive nodes without ENE.",
+      "citations": "Evans, Radiother Oncol 2025"
+    },
+    {
+      "year": "2024",
+      "num": "198",
+      "question": "The CYBER-SPACE trial compared MPRAGE vs SPACE MRI sequences for brain metastasis SRS. What was the most common reason for salvage WBRT?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leptomeningeal disease"
+        },
+        {
+          "letter": "B",
+          "text": ">10 metastases"
+        },
+        {
+          "letter": "C",
+          "text": "Local recurrence"
+        },
+        {
+          "letter": "D",
+          "text": "Symptomatic necrosis"
+        }
+      ],
+      "key": "B",
+      "rationale": "The most common reasons for WBRT were >10 mets (65%).",
+      "citations": "El Shafie, Neuro Oncol 2024"
+    },
+    {
+      "year": "2024",
+      "num": "199",
+      "question": "A prospective study of 26 Gy in 5 fractions for breast cancer found what proportion of women experienced moderate toxicity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 in 6"
+        },
+        {
+          "letter": "B",
+          "text": "50%"
+        },
+        {
+          "letter": "C",
+          "text": "Most women"
+        },
+        {
+          "letter": "D",
+          "text": "None"
+        }
+      ],
+      "key": "A",
+      "rationale": "1 of 6 women experiencing moderate toxicity.",
+      "citations": "Nicholson, Adv Radiat Oncol 2024"
+    },
+    {
+      "year": "2025",
+      "num": "200",
+      "question": "NRG BN007 evaluated ipilimumab/nivolumab vs TMZ for MGMT-unmethylated GBM. What was the median PFS for the ipi/nivo arm?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 months"
+        },
+        {
+          "letter": "B",
+          "text": "7.7 months"
+        },
+        {
+          "letter": "C",
+          "text": "12 months"
+        },
+        {
+          "letter": "D",
+          "text": "Superior to TMZ"
+        }
+      ],
+      "key": "B",
+      "rationale": "Ipi/nivo did not significantly improve median PFS compared to standard TMZ (7.7 v 8.5 months).",
+      "citations": "Lassman, J Clin Oncol 2025"
+    }
+  ]
+}
